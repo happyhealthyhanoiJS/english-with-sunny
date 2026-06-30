@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import './App.css';
 import Vocabulary from './Vocabulary';
 import MyNotes from './MyNotes';
+import PhrasalVerbs from './PhrasalVerbs';
+import Idioms from './Idioms';
+import BusinessEmail from './BusinessEmail';
 
 const modules = [
   { id: 'vocabulary', icon: '📚', title: 'Vocabulary', description: 'Flashcards for new words' },
@@ -56,7 +59,10 @@ export default function App() {
       {page === 'home' && <Home onSelect={setPage} />}
       {page === 'vocabulary' && <Vocabulary onBack={() => setPage('home')} />}
       {page === 'notes' && <MyNotes onBack={() => setPage('home')} />}
-      {page !== 'home' && page !== 'vocabulary' && page !== 'notes' && <ComingSoon module={page} onBack={() => setPage('home')} />}
+      {page === 'phrasal' && <PhrasalVerbs onBack={() => setPage('home')} />}
+      {page === 'idioms' && <Idioms onBack={() => setPage('home')} />}
+      {page === 'email' && <BusinessEmail onBack={() => setPage('home')} />}
+      {page !== 'home' && page !== 'vocabulary' && page !== 'notes' && page !== 'phrasal' && page !== 'idioms' && page !== 'email' && <ComingSoon module={page} onBack={() => setPage('home')} />}
     </div>
   );
 }
