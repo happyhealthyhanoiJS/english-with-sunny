@@ -1,0 +1,4002 @@
+﻿[
+    {
+        "id":  1,
+        "word":  "give up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop trying; to quit",
+        "korean":  "í¬ê¸°í•˜ë‹¤",
+        "example":  "Don\u0027t give up on your dream of speaking like a native!"
+    },
+    {
+        "id":  2,
+        "word":  "figure out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To understand or find a solution",
+        "korean":  "ì•Œì•„ë‚´ë‹¤, ì´í•´í•˜ë‹¤",
+        "example":  "I finally figured out how to use this app."
+    },
+    {
+        "id":  3,
+        "word":  "run into",
+        "type":  "Phrasal Verb",
+        "meaning":  "To meet someone unexpectedly",
+        "korean":  "ìš°ì—°ížˆ ë§Œë‚˜ë‹¤",
+        "example":  "I ran into my old friend at the supermarket yesterday."
+    },
+    {
+        "id":  4,
+        "word":  "bring up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To mention a topic in conversation",
+        "korean":  "êº¼ë‚´ë‹¤, ì–¸ê¸‰í•˜ë‹¤",
+        "example":  "She brought up an interesting point during the meeting."
+    },
+    {
+        "id":  5,
+        "word":  "look into",
+        "type":  "Phrasal Verb",
+        "meaning":  "To investigate or research something",
+        "korean":  "ì¡°ì‚¬í•˜ë‹¤",
+        "example":  "I\u0027ll look into the best restaurants in the area."
+    },
+    {
+        "id":  6,
+        "word":  "put off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To delay or postpone something",
+        "korean":  "ë¯¸ë£¨ë‹¤",
+        "example":  "Stop putting off your English practice!"
+    },
+    {
+        "id":  7,
+        "word":  "come across",
+        "type":  "Phrasal Verb",
+        "meaning":  "To find or encounter something by chance",
+        "korean":  "ìš°ì—°ížˆ ë°œê²¬í•˜ë‹¤",
+        "example":  "I came across a great English podcast while browsing online."
+    },
+    {
+        "id":  8,
+        "word":  "get along",
+        "type":  "Phrasal Verb",
+        "meaning":  "To have a good relationship with someone",
+        "korean":  "ìž˜ ì§€ë‚´ë‹¤",
+        "example":  "I get along really well with my coworkers."
+    },
+    {
+        "id":  9,
+        "word":  "point out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To draw attention to something",
+        "korean":  "ì§€ì í•˜ë‹¤",
+        "example":  "My teacher pointed out my grammar mistakes kindly."
+    },
+    {
+        "id":  10,
+        "word":  "take over",
+        "type":  "Phrasal Verb",
+        "meaning":  "To assume control or responsibility",
+        "korean":  "ì¸ê³„ë°›ë‹¤",
+        "example":  "She took over the project when the manager left."
+    },
+    {
+        "id":  11,
+        "word":  "call off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To cancel something",
+        "korean":  "ì·¨ì†Œí•˜ë‹¤",
+        "example":  "They called off the meeting due to bad weather."
+    },
+    {
+        "id":  12,
+        "word":  "carry on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To continue doing something",
+        "korean":  "ê³„ì†í•˜ë‹¤",
+        "example":  "Please carry on with your work while I make a call."
+    },
+    {
+        "id":  13,
+        "word":  "check in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To register at a hotel or airport; to contact someone",
+        "korean":  "ì²´í¬ì¸í•˜ë‹¤; ì—°ë½í•˜ë‹¤",
+        "example":  "Let me check in with the team before making a decision."
+    },
+    {
+        "id":  14,
+        "word":  "check out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To leave a hotel; to look at something",
+        "korean":  "ì²´í¬ì•„ì›ƒí•˜ë‹¤; í™•ì¸í•˜ë‹¤",
+        "example":  "Check out this amazing restaurant I found!"
+    },
+    {
+        "id":  15,
+        "word":  "come up with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To think of an idea or solution",
+        "korean":  "ìƒê°í•´ë‚´ë‹¤",
+        "example":  "She came up with a brilliant solution to the problem."
+    },
+    {
+        "id":  16,
+        "word":  "cut down on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reduce the amount of something",
+        "korean":  "ì¤„ì´ë‹¤",
+        "example":  "I\u0027m trying to cut down on coffee."
+    },
+    {
+        "id":  17,
+        "word":  "deal with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To handle or manage a situation",
+        "korean":  "ì²˜ë¦¬í•˜ë‹¤, ë‹¤ë£¨ë‹¤",
+        "example":  "How do you deal with stress at work?"
+    },
+    {
+        "id":  18,
+        "word":  "drop off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To deliver someone or something",
+        "korean":  "ë‚´ë ¤ì£¼ë‹¤, ê°–ë‹¤ì£¼ë‹¤",
+        "example":  "Can you drop me off at the station?"
+    },
+    {
+        "id":  19,
+        "word":  "end up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To finally be in a situation or place",
+        "korean":  "ê²°êµ­ ~í•˜ê²Œ ë˜ë‹¤",
+        "example":  "We got lost and ended up in a completely different city."
+    },
+    {
+        "id":  20,
+        "word":  "fill in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To complete a form; to substitute for someone",
+        "korean":  "ê¸°ìž…í•˜ë‹¤; ëŒ€ì‹ í•˜ë‹¤",
+        "example":  "Please fill in this form with your details."
+    },
+    {
+        "id":  21,
+        "word":  "find out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To discover or learn information",
+        "korean":  "ì•Œì•„ë‚´ë‹¤",
+        "example":  "I just found out that I got the job!"
+    },
+    {
+        "id":  22,
+        "word":  "get away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To escape or take a vacation",
+        "korean":  "íƒˆì¶œí•˜ë‹¤; ì—¬í–‰ê°€ë‹¤",
+        "example":  "We need to get away for the weekend."
+    },
+    {
+        "id":  23,
+        "word":  "get back to",
+        "type":  "Phrasal Verb",
+        "meaning":  "To contact someone again later",
+        "korean":  "ë‚˜ì¤‘ì— ë‹¤ì‹œ ì—°ë½í•˜ë‹¤",
+        "example":  "I\u0027ll get back to you on that by Friday."
+    },
+    {
+        "id":  24,
+        "word":  "get over",
+        "type":  "Phrasal Verb",
+        "meaning":  "To recover from something",
+        "korean":  "ê·¹ë³µí•˜ë‹¤, íšŒë³µí•˜ë‹¤",
+        "example":  "It took me months to get over the breakup."
+    },
+    {
+        "id":  25,
+        "word":  "get rid of",
+        "type":  "Phrasal Verb",
+        "meaning":  "To remove or throw away something",
+        "korean":  "ì—†ì• ë‹¤, ì œê±°í•˜ë‹¤",
+        "example":  "I need to get rid of all this clutter in my room."
+    },
+    {
+        "id":  26,
+        "word":  "give in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To surrender or yield",
+        "korean":  "êµ´ë³µí•˜ë‹¤, ì–‘ë³´í•˜ë‹¤",
+        "example":  "After hours of arguing, he finally gave in."
+    },
+    {
+        "id":  27,
+        "word":  "go ahead",
+        "type":  "Phrasal Verb",
+        "meaning":  "To proceed or start something",
+        "korean":  "ê³„ì†í•˜ë‹¤, ì§„í–‰í•˜ë‹¤",
+        "example":  "Please go ahead and start without me."
+    },
+    {
+        "id":  28,
+        "word":  "go over",
+        "type":  "Phrasal Verb",
+        "meaning":  "To review or examine something",
+        "korean":  "ê²€í† í•˜ë‹¤",
+        "example":  "Let\u0027s go over the details one more time."
+    },
+    {
+        "id":  29,
+        "word":  "grow up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To mature or become an adult",
+        "korean":  "ì„±ìž¥í•˜ë‹¤, ì–´ë¥¸ì´ ë˜ë‹¤",
+        "example":  "I grew up in a small town in Korea."
+    },
+    {
+        "id":  30,
+        "word":  "hang on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To wait; to hold tightly",
+        "korean":  "ê¸°ë‹¤ë¦¬ë‹¤; ê½‰ ìž¡ë‹¤",
+        "example":  "Hang on a second, I need to grab my keys."
+    },
+    {
+        "id":  31,
+        "word":  "hold on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To wait; to not give up",
+        "korean":  "ê¸°ë‹¤ë¦¬ë‹¤; ë²„í‹°ë‹¤",
+        "example":  "Hold on, I\u0027ll be right back."
+    },
+    {
+        "id":  32,
+        "word":  "keep up with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stay at the same level as someone or something",
+        "korean":  "ë”°ë¼ê°€ë‹¤, ë³´ì¡°ë¥¼ ë§žì¶”ë‹¤",
+        "example":  "It\u0027s hard to keep up with all the new technology."
+    },
+    {
+        "id":  33,
+        "word":  "knock out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make someone unconscious; to impress greatly",
+        "korean":  "ê¸°ì ˆì‹œí‚¤ë‹¤; ê¹œì§ ë†€ë¼ê²Œ í•˜ë‹¤",
+        "example":  "That presentation knocked everyone out!"
+    },
+    {
+        "id":  34,
+        "word":  "lay off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To dismiss employees; to stop doing something",
+        "korean":  "í•´ê³ í•˜ë‹¤; ê·¸ë§Œë‘ë‹¤",
+        "example":  "The company laid off 200 workers last month."
+    },
+    {
+        "id":  35,
+        "word":  "let down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To disappoint someone",
+        "korean":  "ì‹¤ë§ì‹œí‚¤ë‹¤",
+        "example":  "I promised I wouldn\u0027t let you down."
+    },
+    {
+        "id":  36,
+        "word":  "look after",
+        "type":  "Phrasal Verb",
+        "meaning":  "To take care of someone or something",
+        "korean":  "ëŒë³´ë‹¤",
+        "example":  "Can you look after my cat while I\u0027m away?"
+    },
+    {
+        "id":  37,
+        "word":  "look forward to",
+        "type":  "Phrasal Verb",
+        "meaning":  "To anticipate something with pleasure",
+        "korean":  "ê¸°ëŒ€í•˜ë‹¤",
+        "example":  "I\u0027m really looking forward to the holidays."
+    },
+    {
+        "id":  38,
+        "word":  "look up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To search for information",
+        "korean":  "ì°¾ì•„ë³´ë‹¤",
+        "example":  "Let me look up the address on my phone."
+    },
+    {
+        "id":  39,
+        "word":  "make up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reconcile; to invent a story",
+        "korean":  "í™”í•´í•˜ë‹¤; ê¾¸ë©°ë‚´ë‹¤",
+        "example":  "They fought but made up the next day."
+    },
+    {
+        "id":  40,
+        "word":  "mix up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To confuse one thing with another",
+        "korean":  "í˜¼ë™í•˜ë‹¤",
+        "example":  "I always mix up \u0027affect\u0027 and \u0027effect\u0027."
+    },
+    {
+        "id":  41,
+        "word":  "move on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To leave something behind and continue forward",
+        "korean":  "ì•žìœ¼ë¡œ ë‚˜ì•„ê°€ë‹¤",
+        "example":  "It\u0027s time to move on from that bad experience."
+    },
+    {
+        "id":  42,
+        "word":  "pass away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To die (polite expression)",
+        "korean":  "ëŒì•„ê°€ì‹œë‹¤",
+        "example":  "His grandfather passed away peacefully last year."
+    },
+    {
+        "id":  43,
+        "word":  "pick up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To collect someone; to learn casually",
+        "korean":  "ë°ë¦¬ëŸ¬ ê°€ë‹¤; ìžì—°ìŠ¤ëŸ½ê²Œ ë°°ìš°ë‹¤",
+        "example":  "I picked up a lot of English just by watching TV."
+    },
+    {
+        "id":  44,
+        "word":  "put up with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To tolerate something unpleasant",
+        "korean":  "ì°¸ë‹¤, ê²¬ë””ë‹¤",
+        "example":  "I can\u0027t put up with this noise anymore!"
+    },
+    {
+        "id":  45,
+        "word":  "run out of",
+        "type":  "Phrasal Verb",
+        "meaning":  "To have no more of something",
+        "korean":  "ë‹¤ ë–¨ì–´ì§€ë‹¤",
+        "example":  "We ran out of milk â€” can you buy some?"
+    },
+    {
+        "id":  46,
+        "word":  "set up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To arrange or establish something",
+        "korean":  "ì„¤ì¹˜í•˜ë‹¤, ë§ˆë ¨í•˜ë‹¤",
+        "example":  "Let me set up a meeting for next week."
+    },
+    {
+        "id":  47,
+        "word":  "show up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To arrive or appear",
+        "korean":  "ë‚˜íƒ€ë‚˜ë‹¤, ë„ì°©í•˜ë‹¤",
+        "example":  "He didn\u0027t show up for the interview."
+    },
+    {
+        "id":  48,
+        "word":  "sign up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To register for something",
+        "korean":  "ë“±ë¡í•˜ë‹¤, ì‹ ì²­í•˜ë‹¤",
+        "example":  "I signed up for an online English course."
+    },
+    {
+        "id":  49,
+        "word":  "sort out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To resolve a problem or organize things",
+        "korean":  "í•´ê²°í•˜ë‹¤, ì •ë¦¬í•˜ë‹¤",
+        "example":  "I need to sort out my schedule for next week."
+    },
+    {
+        "id":  50,
+        "word":  "stand out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To be noticeable or different from others",
+        "korean":  "ëˆˆì— ë„ë‹¤, ë‘ë“œëŸ¬ì§€ë‹¤",
+        "example":  "Her confidence makes her stand out in any room."
+    },
+    {
+        "id":  51,
+        "word":  "take off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To remove clothing; for a plane to leave the ground; to become successful",
+        "korean":  "ë²—ë‹¤; ì´ë¥™í•˜ë‹¤; ì„±ê³µí•˜ë‹¤",
+        "example":  "Her career really took off after that promotion."
+    },
+    {
+        "id":  52,
+        "word":  "take on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To accept responsibility or a challenge",
+        "korean":  "ë§¡ë‹¤, ë– ë§¡ë‹¤",
+        "example":  "She took on too many projects at once."
+    },
+    {
+        "id":  53,
+        "word":  "talk over",
+        "type":  "Phrasal Verb",
+        "meaning":  "To discuss something thoroughly",
+        "korean":  "ì¶©ë¶„ížˆ ë…¼ì˜í•˜ë‹¤",
+        "example":  "Let\u0027s talk over the plan before we decide."
+    },
+    {
+        "id":  54,
+        "word":  "think over",
+        "type":  "Phrasal Verb",
+        "meaning":  "To consider something carefully",
+        "korean":  "ì‹ ì¤‘í•˜ê²Œ ìƒê°í•˜ë‹¤",
+        "example":  "Give me a day to think it over."
+    },
+    {
+        "id":  55,
+        "word":  "throw away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To discard something",
+        "korean":  "ë²„ë¦¬ë‹¤",
+        "example":  "Don\u0027t throw away that receipt â€” you may need it."
+    },
+    {
+        "id":  56,
+        "word":  "turn down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To refuse; to lower volume",
+        "korean":  "ê±°ì ˆí•˜ë‹¤; ì†Œë¦¬ë¥¼ ì¤„ì´ë‹¤",
+        "example":  "She turned down the job offer because of the salary."
+    },
+    {
+        "id":  57,
+        "word":  "turn up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To arrive; to increase volume",
+        "korean":  "ë‚˜íƒ€ë‚˜ë‹¤; ì†Œë¦¬ë¥¼ ë†’ì´ë‹¤",
+        "example":  "He always turns up late to meetings."
+    },
+    {
+        "id":  58,
+        "word":  "use up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To finish all of something",
+        "korean":  "ë‹¤ ì¨ë²„ë¦¬ë‹¤",
+        "example":  "I used up all my vacation days already."
+    },
+    {
+        "id":  59,
+        "word":  "warm up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To prepare; to become warmer",
+        "korean":  "ì¤€ë¹„ìš´ë™í•˜ë‹¤; ë”°ëœ»í•´ì§€ë‹¤",
+        "example":  "Let\u0027s warm up before we start the meeting with some introductions."
+    },
+    {
+        "id":  60,
+        "word":  "work out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To exercise; to find a solution; to go well",
+        "korean":  "ìš´ë™í•˜ë‹¤; í•´ê²°í•˜ë‹¤; ìž˜ ë˜ë‹¤",
+        "example":  "I\u0027m sure it will all work out in the end."
+    },
+    {
+        "id":  61,
+        "word":  "back down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To withdraw from a position or argument",
+        "korean":  "ë¬¼ëŸ¬ì„œë‹¤",
+        "example":  "He refused to back down even when proven wrong."
+    },
+    {
+        "id":  62,
+        "word":  "back up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To support; to make a copy of data",
+        "korean":  "ì§€ì§€í•˜ë‹¤; ë°±ì—…í•˜ë‹¤",
+        "example":  "Make sure you back up your files regularly."
+    },
+    {
+        "id":  63,
+        "word":  "blow up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To explode; to become very angry",
+        "korean":  "í­ë°œí•˜ë‹¤; í™”ë¥¼ ë‚´ë‹¤",
+        "example":  "He blew up when he heard the news."
+    },
+    {
+        "id":  64,
+        "word":  "break down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop working; to cry; to analyze",
+        "korean":  "ê³ ìž¥ë‚˜ë‹¤; ìš¸ë‹¤; ë¶„ì„í•˜ë‹¤",
+        "example":  "My car broke down on the way to work."
+    },
+    {
+        "id":  65,
+        "word":  "break into",
+        "type":  "Phrasal Verb",
+        "meaning":  "To enter by force; to start a new career",
+        "korean":  "ì¹¨ìž…í•˜ë‹¤; ìƒˆ ë¶„ì•¼ì— ì§„ì¶œí•˜ë‹¤",
+        "example":  "She\u0027s trying to break into the music industry."
+    },
+    {
+        "id":  66,
+        "word":  "break out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To escape; to start suddenly",
+        "korean":  "íƒˆì¶œí•˜ë‹¤; ê°‘ìžê¸° ì‹œìž‘ë˜ë‹¤",
+        "example":  "A fire broke out in the building last night."
+    },
+    {
+        "id":  67,
+        "word":  "bring about",
+        "type":  "Phrasal Verb",
+        "meaning":  "To cause something to happen",
+        "korean":  "ì•¼ê¸°í•˜ë‹¤, ì´ˆëž˜í•˜ë‹¤",
+        "example":  "The new policy brought about many changes."
+    },
+    {
+        "id":  68,
+        "word":  "build up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To increase gradually; to strengthen",
+        "korean":  "ìŒ“ì•„ì˜¬ë¦¬ë‹¤; ê°•í™”í•˜ë‹¤",
+        "example":  "You need to build up your confidence over time."
+    },
+    {
+        "id":  69,
+        "word":  "burn out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To become exhausted from overwork",
+        "korean":  "ë²ˆì•„ì›ƒë˜ë‹¤, ì§€ì¹˜ë‹¤",
+        "example":  "She burned out after working 80-hour weeks."
+    },
+    {
+        "id":  70,
+        "word":  "catch up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reach the same level; to update each other",
+        "korean":  "ë”°ë¼ìž¡ë‹¤; ê·¼í™©ì„ ë‚˜ëˆ„ë‹¤",
+        "example":  "Let\u0027s catch up over coffee sometime!"
+    },
+    {
+        "id":  71,
+        "word":  "calm down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To become less upset or excited",
+        "korean":  "ì§„ì •í•˜ë‹¤",
+        "example":  "Take a deep breath and calm down."
+    },
+    {
+        "id":  72,
+        "word":  "chip in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To contribute money or help",
+        "korean":  "ëˆì„ ëª¨ìœ¼ë‹¤; ê¸°ì—¬í•˜ë‹¤",
+        "example":  "Everyone chipped in to buy the boss a gift."
+    },
+    {
+        "id":  73,
+        "word":  "close down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop operating permanently",
+        "korean":  "ë¬¸ì„ ë‹«ë‹¤, íì—…í•˜ë‹¤",
+        "example":  "The old bookstore closed down last month."
+    },
+    {
+        "id":  74,
+        "word":  "count on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To rely or depend on someone",
+        "korean":  "ë¯¿ë‹¤, ì˜ì§€í•˜ë‹¤",
+        "example":  "You can always count on me."
+    },
+    {
+        "id":  75,
+        "word":  "cross out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To draw a line through something to delete it",
+        "korean":  "ì¤„ì„ ê·¸ì–´ ì§€ìš°ë‹¤",
+        "example":  "Cross out any mistakes and rewrite them."
+    },
+    {
+        "id":  76,
+        "word":  "die down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To gradually become less intense",
+        "korean":  "ìž¦ì•„ë“¤ë‹¤, ê°€ë¼ì•‰ë‹¤",
+        "example":  "The excitement will die down eventually."
+    },
+    {
+        "id":  77,
+        "word":  "do without",
+        "type":  "Phrasal Verb",
+        "meaning":  "To manage without something",
+        "korean":  "ì—†ì´ ì§€ë‚´ë‹¤",
+        "example":  "We\u0027ll have to do without air conditioning today."
+    },
+    {
+        "id":  78,
+        "word":  "draw up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To prepare a document or plan",
+        "korean":  "ìž‘ì„±í•˜ë‹¤",
+        "example":  "The lawyer drew up the contract yesterday."
+    },
+    {
+        "id":  79,
+        "word":  "dress up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To wear formal or fancy clothes",
+        "korean":  "ì°¨ë ¤ìž…ë‹¤",
+        "example":  "We need to dress up for the company dinner."
+    },
+    {
+        "id":  80,
+        "word":  "drive away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To cause someone to leave; to leave by car",
+        "korean":  "ì«“ì•„ë‚´ë‹¤; ì°¨ë¥¼ ëª°ê³  ê°€ë‹¤",
+        "example":  "His attitude drives people away."
+    },
+    {
+        "id":  81,
+        "word":  "fall apart",
+        "type":  "Phrasal Verb",
+        "meaning":  "To break into pieces; to fail completely",
+        "korean":  "ì‚°ì‚°ì¡°ê°ë‚˜ë‹¤; ë¬´ë„ˆì§€ë‹¤",
+        "example":  "The project fell apart due to poor planning."
+    },
+    {
+        "id":  82,
+        "word":  "fall behind",
+        "type":  "Phrasal Verb",
+        "meaning":  "To fail to keep up with a schedule",
+        "korean":  "ë’¤ì²˜ì§€ë‹¤",
+        "example":  "I fell behind on my English studies last month."
+    },
+    {
+        "id":  83,
+        "word":  "fall through",
+        "type":  "Phrasal Verb",
+        "meaning":  "To fail to happen",
+        "korean":  "ë¬´ì‚°ë˜ë‹¤",
+        "example":  "The deal fell through at the last minute."
+    },
+    {
+        "id":  84,
+        "word":  "get ahead",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make progress or succeed",
+        "korean":  "ì•žì„œë‚˜ê°€ë‹¤, ì„±ê³µí•˜ë‹¤",
+        "example":  "Hard work is the best way to get ahead in life."
+    },
+    {
+        "id":  85,
+        "word":  "get around",
+        "type":  "Phrasal Verb",
+        "meaning":  "To travel; to find a way to avoid something",
+        "korean":  "ëŒì•„ë‹¤ë‹ˆë‹¤; í”¼í•´ê°€ë‹¤",
+        "example":  "How do you get around the city without a car?"
+    },
+    {
+        "id":  86,
+        "word":  "get through",
+        "type":  "Phrasal Verb",
+        "meaning":  "To finish; to make contact; to survive",
+        "korean":  "ëë‚´ë‹¤; ì—°ë½ì´ ë‹¿ë‹¤; ë²„í‹°ë‹¤",
+        "example":  "I can\u0027t get through to him â€” his phone is off."
+    },
+    {
+        "id":  87,
+        "word":  "get together",
+        "type":  "Phrasal Verb",
+        "meaning":  "To meet socially",
+        "korean":  "ëª¨ì´ë‹¤, ë§Œë‚˜ë‹¤",
+        "example":  "We should get together for dinner soon!"
+    },
+    {
+        "id":  88,
+        "word":  "give away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To give something for free; to reveal a secret",
+        "korean":  "ê±°ì € ì£¼ë‹¤; ë¹„ë°€ì„ ëˆ„ì„¤í•˜ë‹¤",
+        "example":  "His face gave away his true feelings."
+    },
+    {
+        "id":  89,
+        "word":  "go along with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To agree with or support something",
+        "korean":  "ë™ì˜í•˜ë‹¤, ë”°ë¥´ë‹¤",
+        "example":  "I\u0027ll go along with whatever the team decides."
+    },
+    {
+        "id":  90,
+        "word":  "go through",
+        "type":  "Phrasal Verb",
+        "meaning":  "To experience something difficult; to examine",
+        "korean":  "ê²ªë‹¤; ê²€í† í•˜ë‹¤",
+        "example":  "She went through a very difficult time last year."
+    },
+    {
+        "id":  91,
+        "word":  "hand in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To submit work or documents",
+        "korean":  "ì œì¶œí•˜ë‹¤",
+        "example":  "Please hand in your report by Friday."
+    },
+    {
+        "id":  92,
+        "word":  "hand out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To distribute something to people",
+        "korean":  "ë‚˜ëˆ ì£¼ë‹¤",
+        "example":  "Can you hand out these flyers at the event?"
+    },
+    {
+        "id":  93,
+        "word":  "head off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To leave; to prevent something",
+        "korean":  "ì¶œë°œí•˜ë‹¤; ë§‰ë‹¤",
+        "example":  "I need to head off early tomorrow."
+    },
+    {
+        "id":  94,
+        "word":  "hold back",
+        "type":  "Phrasal Verb",
+        "meaning":  "To restrain; to not reach full potential",
+        "korean":  "ìžì œí•˜ë‹¤; ë°œì „ì„ ë§‰ë‹¤",
+        "example":  "Fear is holding you back from speaking English."
+    },
+    {
+        "id":  95,
+        "word":  "iron out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To resolve difficulties or problems",
+        "korean":  "í•´ê²°í•˜ë‹¤, í•´ì†Œí•˜ë‹¤",
+        "example":  "We still need to iron out the details of the contract."
+    },
+    {
+        "id":  96,
+        "word":  "join in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To participate in an activity",
+        "korean":  "ì°¸ì—¬í•˜ë‹¤",
+        "example":  "Feel free to join in the conversation!"
+    },
+    {
+        "id":  97,
+        "word":  "let go of",
+        "type":  "Phrasal Verb",
+        "meaning":  "To release; to stop holding onto something emotionally",
+        "korean":  "ë†“ì•„ì£¼ë‹¤; ìžŠë‹¤",
+        "example":  "You need to let go of the past."
+    },
+    {
+        "id":  98,
+        "word":  "live up to",
+        "type":  "Phrasal Verb",
+        "meaning":  "To meet expectations",
+        "korean":  "ê¸°ëŒ€ì— ë¶€ì‘í•˜ë‹¤",
+        "example":  "The movie didn\u0027t live up to the hype."
+    },
+    {
+        "id":  99,
+        "word":  "log in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To sign into a computer system",
+        "korean":  "ë¡œê·¸ì¸í•˜ë‹¤",
+        "example":  "Log in with your email and password."
+    },
+    {
+        "id":  100,
+        "word":  "narrow down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reduce the number of choices",
+        "korean":  "ì¢ížˆë‹¤",
+        "example":  "Let\u0027s narrow down the candidates to three."
+    },
+    {
+        "id":  101,
+        "word":  "it\u0027s raining cats and dogs",
+        "type":  "Idiom",
+        "meaning":  "It is raining very heavily",
+        "korean":  "ë¹„ê°€ ì—„ì²­ë‚˜ê²Œ ìŸì•„ì§€ë‹¤",
+        "example":  "Take an umbrella â€” it\u0027s raining cats and dogs!"
+    },
+    {
+        "id":  102,
+        "word":  "under the weather",
+        "type":  "Idiom",
+        "meaning":  "Feeling sick or unwell",
+        "korean":  "ëª¸ì´ ì¢‹ì§€ ì•Šë‹¤",
+        "example":  "I\u0027m feeling a bit under the weather today."
+    },
+    {
+        "id":  103,
+        "word":  "bite the bullet",
+        "type":  "Idiom",
+        "meaning":  "To endure something painful or difficult",
+        "korean":  "ì´ë¥¼ ì•…ë¬¼ê³  ê²¬ë””ë‹¤",
+        "example":  "I bit the bullet and finally went to the dentist."
+    },
+    {
+        "id":  104,
+        "word":  "hit the nail on the head",
+        "type":  "Idiom",
+        "meaning":  "To be exactly right about something",
+        "korean":  "í•µì‹¬ì„ ì°Œë¥´ë‹¤",
+        "example":  "You hit the nail on the head â€” that\u0027s exactly the problem."
+    },
+    {
+        "id":  105,
+        "word":  "once in a blue moon",
+        "type":  "Idiom",
+        "meaning":  "Very rarely",
+        "korean":  "ì•„ì£¼ ê°€ë”",
+        "example":  "I only eat junk food once in a blue moon."
+    },
+    {
+        "id":  106,
+        "word":  "break the ice",
+        "type":  "Idiom",
+        "meaning":  "To reduce tension in a social situation",
+        "korean":  "ì–´ìƒ‰í•œ ë¶„ìœ„ê¸°ë¥¼ ê¹¨ë‹¤",
+        "example":  "He told a joke to break the ice at the meeting."
+    },
+    {
+        "id":  107,
+        "word":  "the ball is in your court",
+        "type":  "Idiom",
+        "meaning":  "It is your turn to take action",
+        "korean":  "ì´ì œ ë‹¹ì‹ ì´ ê²°ì •í•  ì°¨ë¡€ë‹¤",
+        "example":  "I\u0027ve sent the proposal â€” the ball is in their court."
+    },
+    {
+        "id":  108,
+        "word":  "spill the beans",
+        "type":  "Idiom",
+        "meaning":  "To reveal a secret",
+        "korean":  "ë¹„ë°€ì„ ëˆ„ì„¤í•˜ë‹¤",
+        "example":  "Don\u0027t spill the beans about the surprise party!"
+    },
+    {
+        "id":  109,
+        "word":  "a blessing in disguise",
+        "type":  "Idiom",
+        "meaning":  "Something bad that turns out to be good",
+        "korean":  "ì „í™”ìœ„ë³µ",
+        "example":  "Losing that job was a blessing in disguise."
+    },
+    {
+        "id":  110,
+        "word":  "burn bridges",
+        "type":  "Idiom",
+        "meaning":  "To permanently damage a relationship",
+        "korean":  "ê´€ê³„ë¥¼ ëŠë‹¤",
+        "example":  "Don\u0027t burn bridges when you quit a job."
+    },
+    {
+        "id":  111,
+        "word":  "bite off more than you can chew",
+        "type":  "Idiom",
+        "meaning":  "To take on more than you can handle",
+        "korean":  "ê°ë‹¹ ëª» í•  ì¼ì„ ë– ë§¡ë‹¤",
+        "example":  "I think I bit off more than I could chew with this project."
+    },
+    {
+        "id":  112,
+        "word":  "cost an arm and a leg",
+        "type":  "Idiom",
+        "meaning":  "To be very expensive",
+        "korean":  "ì—„ì²­ë‚˜ê²Œ ë¹„ì‹¸ë‹¤",
+        "example":  "That handbag costs an arm and a leg."
+    },
+    {
+        "id":  113,
+        "word":  "hit the sack",
+        "type":  "Idiom",
+        "meaning":  "To go to bed",
+        "korean":  "ìžë‹¤, ìž ìžë¦¬ì— ë“¤ë‹¤",
+        "example":  "I\u0027m exhausted. I\u0027m going to hit the sack."
+    },
+    {
+        "id":  114,
+        "word":  "kill two birds with one stone",
+        "type":  "Idiom",
+        "meaning":  "To accomplish two things with one action",
+        "korean":  "ì¼ì„ì´ì¡°",
+        "example":  "I\u0027ll go to the gym near work â€” killing two birds with one stone."
+    },
+    {
+        "id":  115,
+        "word":  "let the cat out of the bag",
+        "type":  "Idiom",
+        "meaning":  "To accidentally reveal a secret",
+        "korean":  "ë¹„ë°€ì„ ì‹¤ìˆ˜ë¡œ ëˆ„ì„¤í•˜ë‹¤",
+        "example":  "He let the cat out of the bag about the surprise."
+    },
+    {
+        "id":  116,
+        "word":  "miss the boat",
+        "type":  "Idiom",
+        "meaning":  "To miss an opportunity",
+        "korean":  "ê¸°íšŒë¥¼ ë†“ì¹˜ë‹¤",
+        "example":  "If you don\u0027t apply now, you\u0027ll miss the boat."
+    },
+    {
+        "id":  117,
+        "word":  "on the fence",
+        "type":  "Idiom",
+        "meaning":  "Undecided about something",
+        "korean":  "ê²°ì •ì„ ëª» í•˜ê³  ìžˆëŠ”",
+        "example":  "I\u0027m still on the fence about changing jobs."
+    },
+    {
+        "id":  118,
+        "word":  "piece of cake",
+        "type":  "Idiom",
+        "meaning":  "Something very easy",
+        "korean":  "ì‹ì€ ì£½ ë¨¹ê¸°, ì•„ì£¼ ì‰¬ìš´ ì¼",
+        "example":  "The exam was a piece of cake!"
+    },
+    {
+        "id":  119,
+        "word":  "pull someone\u0027s leg",
+        "type":  "Idiom",
+        "meaning":  "To joke or tease someone",
+        "korean":  "ë†ë‹´í•˜ë‹¤, ë†€ë¦¬ë‹¤",
+        "example":  "I\u0027m just pulling your leg â€” it\u0027s not serious!"
+    },
+    {
+        "id":  120,
+        "word":  "sit on the fence",
+        "type":  "Idiom",
+        "meaning":  "To avoid taking a side in an argument",
+        "korean":  "ì¤‘ë¦½ì„ ì§€í‚¤ë‹¤",
+        "example":  "You can\u0027t sit on the fence on this issue."
+    },
+    {
+        "id":  121,
+        "word":  "steal the show",
+        "type":  "Idiom",
+        "meaning":  "To be the most impressive part of something",
+        "korean":  "ì£¼ëª©ì„ ë…ì°¨ì§€í•˜ë‹¤",
+        "example":  "Her performance stole the show last night."
+    },
+    {
+        "id":  122,
+        "word":  "the tip of the iceberg",
+        "type":  "Idiom",
+        "meaning":  "A small visible part of a larger problem",
+        "korean":  "ë¹™ì‚°ì˜ ì¼ê°",
+        "example":  "These complaints are just the tip of the iceberg."
+    },
+    {
+        "id":  123,
+        "word":  "throw in the towel",
+        "type":  "Idiom",
+        "meaning":  "To give up or admit defeat",
+        "korean":  "í¬ê¸°í•˜ë‹¤, í•­ë³µí•˜ë‹¤",
+        "example":  "After three failed attempts, he threw in the towel."
+    },
+    {
+        "id":  124,
+        "word":  "under the table",
+        "type":  "Idiom",
+        "meaning":  "Done secretly and usually illegally",
+        "korean":  "ëª°ëž˜, ë¹„ê³µê°œë¡œ",
+        "example":  "They paid him under the table."
+    },
+    {
+        "id":  125,
+        "word":  "up in the air",
+        "type":  "Idiom",
+        "meaning":  "Uncertain or undecided",
+        "korean":  "ë¶ˆí™•ì‹¤í•œ, ë¯¸ì •ì¸",
+        "example":  "The launch date is still up in the air."
+    },
+    {
+        "id":  126,
+        "word":  "wrap your head around",
+        "type":  "Idiom",
+        "meaning":  "To fully understand something complex",
+        "korean":  "ì´í•´í•˜ë‹¤, íŒŒì•…í•˜ë‹¤",
+        "example":  "I can\u0027t wrap my head around this grammar rule."
+    },
+    {
+        "id":  127,
+        "word":  "you can\u0027t judge a book by its cover",
+        "type":  "Idiom",
+        "meaning":  "Don\u0027t judge someone by their appearance",
+        "korean":  "ê²‰ëª¨ìŠµìœ¼ë¡œ íŒë‹¨í•˜ì§€ ë§ˆë¼",
+        "example":  "He seemed unfriendly at first, but you can\u0027t judge a book by its cover."
+    },
+    {
+        "id":  128,
+        "word":  "add fuel to the fire",
+        "type":  "Idiom",
+        "meaning":  "To make a bad situation worse",
+        "korean":  "ë¶ˆì— ê¸°ë¦„ì„ ë¶“ë‹¤",
+        "example":  "His comment just added fuel to the fire."
+    },
+    {
+        "id":  129,
+        "word":  "at the drop of a hat",
+        "type":  "Idiom",
+        "meaning":  "Immediately, without hesitation",
+        "korean":  "ì¦‰ì‹œ, ì£¼ì € ì—†ì´",
+        "example":  "She would help anyone at the drop of a hat."
+    },
+    {
+        "id":  130,
+        "word":  "back to square one",
+        "type":  "Idiom",
+        "meaning":  "Starting over from the beginning",
+        "korean":  "ë‹¤ì‹œ ì²˜ìŒìœ¼ë¡œ",
+        "example":  "The plan failed, so we\u0027re back to square one."
+    },
+    {
+        "id":  131,
+        "word":  "barking up the wrong tree",
+        "type":  "Idiom",
+        "meaning":  "Looking in the wrong place for something",
+        "korean":  "í—›ë‹¤ë¦¬ ì§šë‹¤",
+        "example":  "If you think I took it, you\u0027re barking up the wrong tree."
+    },
+    {
+        "id":  132,
+        "word":  "beat around the bush",
+        "type":  "Idiom",
+        "meaning":  "To avoid getting to the main point",
+        "korean":  "í•µì‹¬ì„ í”¼í•˜ë‹¤, ë¹™ë¹™ ëŒë ¤ ë§í•˜ë‹¤",
+        "example":  "Stop beating around the bush and tell me what happened!"
+    },
+    {
+        "id":  133,
+        "word":  "bite the hand that feeds you",
+        "type":  "Idiom",
+        "meaning":  "To harm someone who helps you",
+        "korean":  "ì€í˜œë¥¼ ì›ìˆ˜ë¡œ ê°šë‹¤",
+        "example":  "Criticizing your boss is biting the hand that feeds you."
+    },
+    {
+        "id":  134,
+        "word":  "blow your own trumpet",
+        "type":  "Idiom",
+        "meaning":  "To boast about your own achievements",
+        "korean":  "ìží™”ìžì°¬í•˜ë‹¤",
+        "example":  "He\u0027s always blowing his own trumpet at parties."
+    },
+    {
+        "id":  135,
+        "word":  "caught red-handed",
+        "type":  "Idiom",
+        "meaning":  "Caught in the act of doing something wrong",
+        "korean":  "í˜„ìž¥ì—ì„œ ìž¡ížˆë‹¤",
+        "example":  "He was caught red-handed stealing from the store."
+    },
+    {
+        "id":  136,
+        "word":  "cry over spilled milk",
+        "type":  "Idiom",
+        "meaning":  "To be upset about something that cannot be fixed",
+        "korean":  "ì´ë¯¸ ì—Žì§ˆëŸ¬ì§„ ë¬¼ì„ ë‘ê³  ìš¸ë‹¤",
+        "example":  "The mistake is done â€” no use crying over spilled milk."
+    },
+    {
+        "id":  137,
+        "word":  "cut corners",
+        "type":  "Idiom",
+        "meaning":  "To do something the easy way, sacrificing quality",
+        "korean":  "íŽ¸ë²•ì„ ì“°ë‹¤",
+        "example":  "They cut corners on the construction and now there are problems."
+    },
+    {
+        "id":  138,
+        "word":  "don\u0027t bite the bullet",
+        "type":  "Idiom",
+        "meaning":  "To avoid an unpleasant but necessary action",
+        "korean":  "íž˜ë“  ì¼ì„ í”¼í•˜ë‹¤",
+        "example":  "Don\u0027t bite the bullet â€” face your problems directly."
+    },
+    {
+        "id":  139,
+        "word":  "every cloud has a silver lining",
+        "type":  "Idiom",
+        "meaning":  "Every negative situation has a positive aspect",
+        "korean":  "ê³ ìƒ ëì— ë‚™ì´ ì˜¨ë‹¤",
+        "example":  "I lost the job, but every cloud has a silver lining."
+    },
+    {
+        "id":  140,
+        "word":  "face the music",
+        "type":  "Idiom",
+        "meaning":  "To accept the consequences of your actions",
+        "korean":  "ê²°ê³¼ë¥¼ ê°ìˆ˜í•˜ë‹¤",
+        "example":  "You made the mistake, so you need to face the music."
+    },
+    {
+        "id":  141,
+        "word":  "get out of hand",
+        "type":  "Idiom",
+        "meaning":  "To become out of control",
+        "korean":  "ê±·ìž¡ì„ ìˆ˜ ì—†ê²Œ ë˜ë‹¤",
+        "example":  "The situation got out of hand very quickly."
+    },
+    {
+        "id":  142,
+        "word":  "give someone the cold shoulder",
+        "type":  "Idiom",
+        "meaning":  "To deliberately ignore someone",
+        "korean":  "ëƒ‰ëŒ€í•˜ë‹¤, ëª¨ë¥¸ ì²™í•˜ë‹¤",
+        "example":  "She gave him the cold shoulder after their argument."
+    },
+    {
+        "id":  143,
+        "word":  "go the extra mile",
+        "type":  "Idiom",
+        "meaning":  "To make more effort than is expected",
+        "korean":  "í•œ ë°œ ë” ë‚˜ì•„ê°€ë‹¤, ë” ë…¸ë ¥í•˜ë‹¤",
+        "example":  "She always goes the extra mile for her clients."
+    },
+    {
+        "id":  144,
+        "word":  "hang in there",
+        "type":  "Idiom",
+        "meaning":  "To persevere through a difficult situation",
+        "korean":  "ë²„í‹°ë‹¤, í¬ê¸°í•˜ì§€ ë§ˆë¼",
+        "example":  "Hang in there â€” things will get better soon!"
+    },
+    {
+        "id":  145,
+        "word":  "hit the ground running",
+        "type":  "Idiom",
+        "meaning":  "To start something energetically and effectively",
+        "korean":  "ì²˜ìŒë¶€í„° ë¹ ë¥´ê²Œ ì‹œìž‘í•˜ë‹¤",
+        "example":  "She hit the ground running on her first day at work."
+    },
+    {
+        "id":  146,
+        "word":  "in the same boat",
+        "type":  "Idiom",
+        "meaning":  "In the same situation as others",
+        "korean":  "ê°™ì€ ì²˜ì§€ì— ìžˆë‹¤",
+        "example":  "We\u0027re all in the same boat when it comes to this problem."
+    },
+    {
+        "id":  147,
+        "word":  "jump on the bandwagon",
+        "type":  "Idiom",
+        "meaning":  "To follow a trend or popular activity",
+        "korean":  "ìœ í–‰ì— íŽ¸ìŠ¹í•˜ë‹¤",
+        "example":  "Everyone is jumping on the social media bandwagon."
+    },
+    {
+        "id":  148,
+        "word":  "keep your chin up",
+        "type":  "Idiom",
+        "meaning":  "To remain positive in a difficult situation",
+        "korean":  "ê¸°ìš´ ë‚´ë‹¤",
+        "example":  "Keep your chin up â€” I know you\u0027ll pass the test."
+    },
+    {
+        "id":  149,
+        "word":  "leave no stone unturned",
+        "type":  "Idiom",
+        "meaning":  "To try every possible option",
+        "korean":  "ëª¨ë“  ìˆ˜ë‹¨ì„ ë™ì›í•˜ë‹¤",
+        "example":  "I\u0027ll leave no stone unturned to find the answer."
+    },
+    {
+        "id":  150,
+        "word":  "let sleeping dogs lie",
+        "type":  "Idiom",
+        "meaning":  "To avoid bringing up old problems",
+        "korean":  "ìž ìžëŠ” ê°œë¥¼ ê±´ë“œë¦¬ì§€ ë§ˆë¼ (ê¸ì–´ ë¶€ìŠ¤ëŸ¼)",
+        "example":  "Don\u0027t bring that up now â€” let sleeping dogs lie."
+    },
+    {
+        "id":  151,
+        "word":  "nevertheless",
+        "type":  "Vocabulary",
+        "meaning":  "In spite of that; however",
+        "korean":  "ê·¸ëŸ¼ì—ë„ ë¶ˆêµ¬í•˜ê³ ",
+        "example":  "It was raining. Nevertheless, we went for a walk."
+    },
+    {
+        "id":  152,
+        "word":  "eloquent",
+        "type":  "Vocabulary",
+        "meaning":  "Fluent and persuasive in speaking or writing",
+        "korean":  "ë§ì„ ìž˜ í•˜ëŠ”, ìœ ì°½í•œ",
+        "example":  "She gave an eloquent speech that moved the audience."
+    },
+    {
+        "id":  153,
+        "word":  "elaborate",
+        "type":  "Vocabulary",
+        "meaning":  "To explain in more detail",
+        "korean":  "ìžì„¸ížˆ ì„¤ëª…í•˜ë‹¤",
+        "example":  "Could you elaborate on that point?"
+    },
+    {
+        "id":  154,
+        "word":  "ambiguous",
+        "type":  "Vocabulary",
+        "meaning":  "Open to more than one interpretation",
+        "korean":  "ëª¨í˜¸í•œ, ì• ë§¤í•œ",
+        "example":  "His answer was ambiguous and unclear."
+    },
+    {
+        "id":  155,
+        "word":  "concise",
+        "type":  "Vocabulary",
+        "meaning":  "Giving information clearly in few words",
+        "korean":  "ê°„ê²°í•œ",
+        "example":  "Please keep your email concise and to the point."
+    },
+    {
+        "id":  156,
+        "word":  "diligent",
+        "type":  "Vocabulary",
+        "meaning":  "Having or showing care and effort in work",
+        "korean":  "ë¶€ì§€ëŸ°í•œ, ì„±ì‹¤í•œ",
+        "example":  "She is one of the most diligent students I\u0027ve ever taught."
+    },
+    {
+        "id":  157,
+        "word":  "versatile",
+        "type":  "Vocabulary",
+        "meaning":  "Able to adapt to many different functions",
+        "korean":  "ë‹¤ìž¬ë‹¤ëŠ¥í•œ, ìœ ì—°í•œ",
+        "example":  "He is a versatile employee who can do many different tasks."
+    },
+    {
+        "id":  158,
+        "word":  "intuitive",
+        "type":  "Vocabulary",
+        "meaning":  "Based on instinct rather than reasoning",
+        "korean":  "ì§ê´€ì ì¸",
+        "example":  "The app has a very intuitive design."
+    },
+    {
+        "id":  159,
+        "word":  "resilient",
+        "type":  "Vocabulary",
+        "meaning":  "Able to recover quickly from difficulties",
+        "korean":  "íšŒë³µë ¥ì´ ìžˆëŠ”, ê°•ì¸í•œ",
+        "example":  "You need to be resilient to succeed in business."
+    },
+    {
+        "id":  160,
+        "word":  "compelling",
+        "type":  "Vocabulary",
+        "meaning":  "Evoking interest, attention, or admiration",
+        "korean":  "ì„¤ë“ë ¥ ìžˆëŠ”, ë§¤ë ¥ì ì¸",
+        "example":  "She made a compelling argument for the new policy."
+    },
+    {
+        "id":  161,
+        "word":  "subtle",
+        "type":  "Vocabulary",
+        "meaning":  "So delicate or precise as to be difficult to detect",
+        "korean":  "ë¯¸ë¬˜í•œ, êµë¬˜í•œ",
+        "example":  "There\u0027s a subtle difference between these two words."
+    },
+    {
+        "id":  162,
+        "word":  "authentic",
+        "type":  "Vocabulary",
+        "meaning":  "Genuine; real; not fake",
+        "korean":  "ì§„ì§œì˜, ì§„ì •í•œ",
+        "example":  "I want to sound authentic when I speak English."
+    },
+    {
+        "id":  163,
+        "word":  "leverage",
+        "type":  "Vocabulary",
+        "meaning":  "To use something to maximum advantage",
+        "korean":  "í™œìš©í•˜ë‹¤, ì´ìš©í•˜ë‹¤",
+        "example":  "Let\u0027s leverage our strengths to win this contract."
+    },
+    {
+        "id":  164,
+        "word":  "initiative",
+        "type":  "Vocabulary",
+        "meaning":  "The ability to assess and take action independently",
+        "korean":  "ì£¼ë„ê¶Œ, ì†”ì„ ìˆ˜ë²”",
+        "example":  "She took the initiative to solve the problem without being asked."
+    },
+    {
+        "id":  165,
+        "word":  "perspective",
+        "type":  "Vocabulary",
+        "meaning":  "A particular way of thinking about something",
+        "korean":  "ê´€ì , ì‹œê°",
+        "example":  "Try to see things from a different perspective."
+    },
+    {
+        "id":  166,
+        "word":  "momentum",
+        "type":  "Vocabulary",
+        "meaning":  "The force that keeps an activity going",
+        "korean":  "ì¶”ì§„ë ¥, ê¸°ì„¸",
+        "example":  "We need to maintain momentum on this project."
+    },
+    {
+        "id":  167,
+        "word":  "transparent",
+        "type":  "Vocabulary",
+        "meaning":  "Open and honest; easy to see through",
+        "korean":  "íˆ¬ëª…í•œ, ì†”ì§í•œ",
+        "example":  "Our company aims to be transparent with customers."
+    },
+    {
+        "id":  168,
+        "word":  "collaborate",
+        "type":  "Vocabulary",
+        "meaning":  "To work jointly with others",
+        "korean":  "í˜‘ë ¥í•˜ë‹¤, í˜‘ì—…í•˜ë‹¤",
+        "example":  "We need to collaborate across departments on this."
+    },
+    {
+        "id":  169,
+        "word":  "implement",
+        "type":  "Vocabulary",
+        "meaning":  "To put a plan into action",
+        "korean":  "ì‹¤í–‰í•˜ë‹¤, ì‹œí–‰í•˜ë‹¤",
+        "example":  "We will implement the new system next month."
+    },
+    {
+        "id":  170,
+        "word":  "prioritize",
+        "type":  "Vocabulary",
+        "meaning":  "To designate things in order of importance",
+        "korean":  "ìš°ì„ ìˆœìœ„ë¥¼ ì •í•˜ë‹¤",
+        "example":  "You need to prioritize your tasks better."
+    },
+    {
+        "id":  171,
+        "word":  "articulate",
+        "type":  "Vocabulary",
+        "meaning":  "To express something clearly; able to speak clearly",
+        "korean":  "ëª…í™•ížˆ í‘œí˜„í•˜ë‹¤; ë§ì„ ìž˜ í•˜ëŠ”",
+        "example":  "She articulated her ideas very clearly in the meeting."
+    },
+    {
+        "id":  172,
+        "word":  "proactive",
+        "type":  "Vocabulary",
+        "meaning":  "Taking action in anticipation of future problems",
+        "korean":  "ì£¼ë„ì ì¸, ì„ ì œì ì¸",
+        "example":  "Be proactive rather than waiting for problems to arise."
+    },
+    {
+        "id":  173,
+        "word":  "coherent",
+        "type":  "Vocabulary",
+        "meaning":  "Logical and consistent; easy to understand",
+        "korean":  "ë…¼ë¦¬ì ì¸, ì¼ê´€ëœ",
+        "example":  "Please make sure your report is coherent and well-structured."
+    },
+    {
+        "id":  174,
+        "word":  "persistent",
+        "type":  "Vocabulary",
+        "meaning":  "Continuing firmly despite difficulty",
+        "korean":  "ëˆê¸° ìžˆëŠ”, ì§‘ìš”í•œ",
+        "example":  "Being persistent is key to learning a new language."
+    },
+    {
+        "id":  175,
+        "word":  "pragmatic",
+        "type":  "Vocabulary",
+        "meaning":  "Dealing with things sensibly and practically",
+        "korean":  "ì‹¤ìš©ì ì¸",
+        "example":  "Let\u0027s take a pragmatic approach to this problem."
+    },
+    {
+        "id":  176,
+        "word":  "acknowledge",
+        "type":  "Vocabulary",
+        "meaning":  "To accept or admit the existence of something",
+        "korean":  "ì¸ì •í•˜ë‹¤, ì¸ì‹í•˜ë‹¤",
+        "example":  "Please acknowledge receipt of this email."
+    },
+    {
+        "id":  177,
+        "word":  "anticipate",
+        "type":  "Vocabulary",
+        "meaning":  "To expect or predict something",
+        "korean":  "ì˜ˆìƒí•˜ë‹¤, ê¸°ëŒ€í•˜ë‹¤",
+        "example":  "We anticipate strong sales this quarter."
+    },
+    {
+        "id":  178,
+        "word":  "considerable",
+        "type":  "Vocabulary",
+        "meaning":  "Notably large in size or extent",
+        "korean":  "ìƒë‹¹í•œ",
+        "example":  "We\u0027ve made considerable progress this month."
+    },
+    {
+        "id":  179,
+        "word":  "crucial",
+        "type":  "Vocabulary",
+        "meaning":  "Extremely important; decisive",
+        "korean":  "ì¤‘ìš”í•œ, ê²°ì •ì ì¸",
+        "example":  "It is crucial that we meet this deadline."
+    },
+    {
+        "id":  180,
+        "word":  "dedicate",
+        "type":  "Vocabulary",
+        "meaning":  "To devote time and effort to something",
+        "korean":  "í—Œì‹ í•˜ë‹¤, ì „ë…í•˜ë‹¤",
+        "example":  "I dedicate one hour each day to English study."
+    },
+    {
+        "id":  181,
+        "word":  "efficient",
+        "type":  "Vocabulary",
+        "meaning":  "Achieving maximum productivity with minimum waste",
+        "korean":  "íš¨ìœ¨ì ì¸",
+        "example":  "We need a more efficient way to handle this process."
+    },
+    {
+        "id":  182,
+        "word":  "fundamental",
+        "type":  "Vocabulary",
+        "meaning":  "Forming a necessary base; central",
+        "korean":  "ê·¼ë³¸ì ì¸, ê¸°ë³¸ì ì¸",
+        "example":  "Grammar is fundamental to learning any language."
+    },
+    {
+        "id":  183,
+        "word":  "genuine",
+        "type":  "Vocabulary",
+        "meaning":  "Truly what it is said to be; sincere",
+        "korean":  "ì§„ì§œì˜, ì§„ì‹¬ ì–´ë¦°",
+        "example":  "He showed genuine interest in learning Korean culture."
+    },
+    {
+        "id":  184,
+        "word":  "highlight",
+        "type":  "Vocabulary",
+        "meaning":  "To emphasize or make prominent",
+        "korean":  "ê°•ì¡°í•˜ë‹¤, ë¶€ê°ì‹œí‚¤ë‹¤",
+        "example":  "I\u0027d like to highlight a few key points from the report."
+    },
+    {
+        "id":  185,
+        "word":  "inevitable",
+        "type":  "Vocabulary",
+        "meaning":  "Certain to happen; unavoidable",
+        "korean":  "ë¶ˆê°€í”¼í•œ, í•„ì—°ì ì¸",
+        "example":  "Some mistakes are inevitable when learning a language."
+    },
+    {
+        "id":  186,
+        "word":  "justify",
+        "type":  "Vocabulary",
+        "meaning":  "To show or prove to be right or reasonable",
+        "korean":  "ì •ë‹¹í™”í•˜ë‹¤",
+        "example":  "Can you justify this expense to the management?"
+    },
+    {
+        "id":  187,
+        "word":  "keen",
+        "type":  "Vocabulary",
+        "meaning":  "Enthusiastic; sharp or acute",
+        "korean":  "ì—´ì‹¬ì¸, ë‚ ì¹´ë¡œìš´",
+        "example":  "She is keen to improve her English skills."
+    },
+    {
+        "id":  188,
+        "word":  "lucid",
+        "type":  "Vocabulary",
+        "meaning":  "Expressed clearly; easy to understand",
+        "korean":  "ëª…í™•í•œ, ì´í•´í•˜ê¸° ì‰¬ìš´",
+        "example":  "The teacher gave a lucid explanation of the grammar rule."
+    },
+    {
+        "id":  189,
+        "word":  "meticulous",
+        "type":  "Vocabulary",
+        "meaning":  "Showing great attention to detail",
+        "korean":  "ê¼¼ê¼¼í•œ, ì„¸ì‹¬í•œ",
+        "example":  "She is meticulous in her proofreading."
+    },
+    {
+        "id":  190,
+        "word":  "nuance",
+        "type":  "Vocabulary",
+        "meaning":  "A subtle difference in meaning or expression",
+        "korean":  "ë‰˜ì•™ìŠ¤, ë¯¸ë¬˜í•œ ì°¨ì´",
+        "example":  "Understanding nuance is important for sounding native."
+    },
+    {
+        "id":  191,
+        "word":  "objective",
+        "type":  "Vocabulary",
+        "meaning":  "Not influenced by personal feelings; a goal",
+        "korean":  "ê°ê´€ì ì¸; ëª©í‘œ",
+        "example":  "Try to be objective when evaluating your own work."
+    },
+    {
+        "id":  192,
+        "word":  "overwhelm",
+        "type":  "Vocabulary",
+        "meaning":  "To bury or drown beneath a huge mass; to overpower",
+        "korean":  "ì••ë„í•˜ë‹¤, ì••ë„ë˜ë‹¤",
+        "example":  "Don\u0027t let the amount of vocabulary overwhelm you."
+    },
+    {
+        "id":  193,
+        "word":  "precise",
+        "type":  "Vocabulary",
+        "meaning":  "Marked by exactness and accuracy",
+        "korean":  "ì •í™•í•œ, ì •ë°€í•œ",
+        "example":  "Be precise when describing symptoms to a doctor."
+    },
+    {
+        "id":  194,
+        "word":  "relevant",
+        "type":  "Vocabulary",
+        "meaning":  "Closely connected or appropriate to the matter",
+        "korean":  "ê´€ë ¨ ìžˆëŠ”, ì ì ˆí•œ",
+        "example":  "Please only share information relevant to the topic."
+    },
+    {
+        "id":  195,
+        "word":  "straightforward",
+        "type":  "Vocabulary",
+        "meaning":  "Simple and easy to understand; honest",
+        "korean":  "ê°„ë‹¨í•œ, ì†”ì§í•œ",
+        "example":  "The instructions are straightforward â€” just follow them."
+    },
+    {
+        "id":  196,
+        "word":  "thorough",
+        "type":  "Vocabulary",
+        "meaning":  "Complete with great attention to detail",
+        "korean":  "ì² ì €í•œ, ê¼¼ê¼¼í•œ",
+        "example":  "Please do a thorough review of the document."
+    },
+    {
+        "id":  197,
+        "word":  "unanimous",
+        "type":  "Vocabulary",
+        "meaning":  "Fully in agreement",
+        "korean":  "ë§Œìž¥ì¼ì¹˜ì˜",
+        "example":  "The decision was unanimous â€” everyone agreed."
+    },
+    {
+        "id":  198,
+        "word":  "validate",
+        "type":  "Vocabulary",
+        "meaning":  "To check or prove the validity of something",
+        "korean":  "í™•ì¸í•˜ë‹¤, ê²€ì¦í•˜ë‹¤",
+        "example":  "Please validate your information before submitting."
+    },
+    {
+        "id":  199,
+        "word":  "worthwhile",
+        "type":  "Vocabulary",
+        "meaning":  "Worth the time, money, or effort spent",
+        "korean":  "ê°€ì¹˜ ìžˆëŠ”",
+        "example":  "Learning English is definitely worthwhile."
+    },
+    {
+        "id":  200,
+        "word":  "yield",
+        "type":  "Vocabulary",
+        "meaning":  "To produce or provide; to give way",
+        "korean":  "ìƒì‚°í•˜ë‹¤; ì–‘ë³´í•˜ë‹¤",
+        "example":  "Hard work will yield great results."
+    },
+    {
+        "id":  201,
+        "word":  "I am writing to inquire about",
+        "type":  "Business Email",
+        "meaning":  "A formal way to start an email asking for information",
+        "korean":  "~ì— ëŒ€í•´ ë¬¸ì˜ë“œë¦¬ë ¤ê³  ì—°ë½ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I am writing to inquire about the status of my application."
+    },
+    {
+        "id":  202,
+        "word":  "Please find attached",
+        "type":  "Business Email",
+        "meaning":  "Used when sending a file in an email",
+        "korean":  "ì²¨ë¶€íŒŒì¼ì„ í™•ì¸í•´ ì£¼ì„¸ìš”",
+        "example":  "Please find attached the report you requested."
+    },
+    {
+        "id":  203,
+        "word":  "I look forward to hearing from you",
+        "type":  "Business Email",
+        "meaning":  "A polite way to end an email expecting a reply",
+        "korean":  "ë‹µë³€ ê¸°ë‹¤ë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "Thank you for your time. I look forward to hearing from you."
+    },
+    {
+        "id":  204,
+        "word":  "As per our conversation",
+        "type":  "Business Email",
+        "meaning":  "Referring to what was discussed earlier",
+        "korean":  "ìš°ë¦¬ê°€ ë‚˜ëˆˆ ëŒ€í™”ì—ì„œ ì–¸ê¸‰í–ˆë“¯ì´",
+        "example":  "As per our conversation, I have attached the revised document."
+    },
+    {
+        "id":  205,
+        "word":  "I was wondering if you could",
+        "type":  "Business Email",
+        "meaning":  "A polite way to make a request",
+        "korean":  "í˜¹ì‹œ ~í•´ ì£¼ì‹¤ ìˆ˜ ìžˆì„ê¹Œìš”",
+        "example":  "I was wondering if you could review this before tomorrow."
+    },
+    {
+        "id":  206,
+        "word":  "I hope this email finds you well",
+        "type":  "Business Email",
+        "meaning":  "A friendly greeting at the start of an email",
+        "korean":  "ìž˜ ì§€ë‚´ê³  ê³„ì‹œê¸¸ ë°”ëžë‹ˆë‹¤",
+        "example":  "Dear John, I hope this email finds you well."
+    },
+    {
+        "id":  207,
+        "word":  "Could you please clarify",
+        "type":  "Business Email",
+        "meaning":  "Asking for a clearer explanation",
+        "korean":  "ëª…í™•í•˜ê²Œ ì„¤ëª…í•´ ì£¼ì‹¤ ìˆ˜ ìžˆë‚˜ìš”",
+        "example":  "Could you please clarify the deadline for this project?"
+    },
+    {
+        "id":  208,
+        "word":  "I apologize for the inconvenience",
+        "type":  "Business Email",
+        "meaning":  "Saying sorry for causing trouble",
+        "korean":  "ë¶ˆíŽ¸ì„ ë“œë ¤ ì£„ì†¡í•©ë‹ˆë‹¤",
+        "example":  "I apologize for the inconvenience this may have caused."
+    },
+    {
+        "id":  209,
+        "word":  "Please do not hesitate to contact me",
+        "type":  "Business Email",
+        "meaning":  "Inviting someone to reach out freely",
+        "korean":  "ì–¸ì œë“ ì§€ ì—°ë½ ì£¼ì„¸ìš”",
+        "example":  "Please do not hesitate to contact me if you have any questions."
+    },
+    {
+        "id":  210,
+        "word":  "I am following up on",
+        "type":  "Business Email",
+        "meaning":  "Checking the status of a previous message or action",
+        "korean":  "~ì— ëŒ€í•´ í›„ì† ì—°ë½ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I am following up on the email I sent last week."
+    },
+    {
+        "id":  211,
+        "word":  "Further to my previous email",
+        "type":  "Business Email",
+        "meaning":  "Continuing from a previous email",
+        "korean":  "ì´ì „ ì´ë©”ì¼ì— ì´ì–´ì„œ",
+        "example":  "Further to my previous email, I wanted to add some more details."
+    },
+    {
+        "id":  212,
+        "word":  "I would like to bring to your attention",
+        "type":  "Business Email",
+        "meaning":  "Formally pointing something out",
+        "korean":  "ì£¼ëª©í•´ ì£¼ì…¨ìœ¼ë©´ í•˜ëŠ” ì‚¬í•­ì´ ìžˆìŠµë‹ˆë‹¤",
+        "example":  "I would like to bring to your attention a discrepancy in the report."
+    },
+    {
+        "id":  213,
+        "word":  "Please be advised that",
+        "type":  "Business Email",
+        "meaning":  "A formal way to inform someone",
+        "korean":  "ì•Œë ¤ë“œë¦½ë‹ˆë‹¤",
+        "example":  "Please be advised that the office will be closed on Monday."
+    },
+    {
+        "id":  214,
+        "word":  "At your earliest convenience",
+        "type":  "Business Email",
+        "meaning":  "As soon as possible, but not urgently demanding",
+        "korean":  "ê°€ëŠ¥í•˜ì‹  ë¹¨ë¦¬",
+        "example":  "Please reply at your earliest convenience."
+    },
+    {
+        "id":  215,
+        "word":  "I trust this meets your requirements",
+        "type":  "Business Email",
+        "meaning":  "Hoping that what you sent is satisfactory",
+        "korean":  "ìš”êµ¬ì‚¬í•­ì„ ì¶©ì¡±ì‹œí‚¤ê¸¸ ë°”ëžë‹ˆë‹¤",
+        "example":  "I trust this meets your requirements. Please let me know if not."
+    },
+    {
+        "id":  216,
+        "word":  "Thank you for your prompt response",
+        "type":  "Business Email",
+        "meaning":  "Appreciating a quick reply",
+        "korean":  "ë¹ ë¥¸ ë‹µë³€ ê°ì‚¬í•©ë‹ˆë‹¤",
+        "example":  "Thank you for your prompt response to my inquiry."
+    },
+    {
+        "id":  217,
+        "word":  "I am pleased to inform you",
+        "type":  "Business Email",
+        "meaning":  "Sharing good news formally",
+        "korean":  "ê¸°ìœ ì†Œì‹ì„ ì „í•´ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I am pleased to inform you that your application has been accepted."
+    },
+    {
+        "id":  218,
+        "word":  "I regret to inform you",
+        "type":  "Business Email",
+        "meaning":  "Sharing bad news formally",
+        "korean":  "ìœ ê°ìŠ¤ëŸ½ê²Œë„ ì•Œë ¤ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I regret to inform you that the position has been filled."
+    },
+    {
+        "id":  219,
+        "word":  "Please confirm receipt",
+        "type":  "Business Email",
+        "meaning":  "Asking someone to confirm they received something",
+        "korean":  "ìˆ˜ì‹  í™•ì¸ ë¶€íƒë“œë¦½ë‹ˆë‹¤",
+        "example":  "Please confirm receipt of this email."
+    },
+    {
+        "id":  220,
+        "word":  "As discussed",
+        "type":  "Business Email",
+        "meaning":  "Referring to something talked about before",
+        "korean":  "ë…¼ì˜í•œ ë°”ì™€ ê°™ì´",
+        "example":  "As discussed, I will send the report by end of day."
+    },
+    {
+        "id":  221,
+        "word":  "I would appreciate your feedback",
+        "type":  "Business Email",
+        "meaning":  "Politely asking for someone\u0027s opinion",
+        "korean":  "í”¼ë“œë°± ë¶€íƒë“œë¦½ë‹ˆë‹¤",
+        "example":  "I would appreciate your feedback on the attached proposal."
+    },
+    {
+        "id":  222,
+        "word":  "Please let me know if you need anything else",
+        "type":  "Business Email",
+        "meaning":  "Offering further help",
+        "korean":  "ë‹¤ë¥¸ í•„ìš”í•œ ê²ƒì´ ìžˆìœ¼ë©´ ì•Œë ¤ì£¼ì„¸ìš”",
+        "example":  "Please let me know if you need anything else from my side."
+    },
+    {
+        "id":  223,
+        "word":  "I will keep you posted",
+        "type":  "Business Email",
+        "meaning":  "To continue to give someone updates",
+        "korean":  "ê³„ì† ì—…ë°ì´íŠ¸ ë“œë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "I will keep you posted on any developments."
+    },
+    {
+        "id":  224,
+        "word":  "On behalf of",
+        "type":  "Business Email",
+        "meaning":  "As a representative of someone",
+        "korean":  "~ì„ ëŒ€ì‹ í•˜ì—¬",
+        "example":  "On behalf of our team, I\u0027d like to thank you for your support."
+    },
+    {
+        "id":  225,
+        "word":  "To whom it may concern",
+        "type":  "Business Email",
+        "meaning":  "Used when you don\u0027t know the recipient\u0027s name",
+        "korean":  "ë‹´ë‹¹ìž ê·€ì¤‘",
+        "example":  "To whom it may concern, I am writing about your services."
+    },
+    {
+        "id":  226,
+        "word":  "Kind regards",
+        "type":  "Business Email",
+        "meaning":  "A formal but friendly email sign-off",
+        "korean":  "ê°ì‚¬ë“œë¦½ë‹ˆë‹¤ (ì´ë©”ì¼ ë§ˆë¬´ë¦¬)",
+        "example":  "Kind regards, Sunny Park"
+    },
+    {
+        "id":  227,
+        "word":  "Best regards",
+        "type":  "Business Email",
+        "meaning":  "A common professional email closing",
+        "korean":  "ì•ˆë…•ížˆ ê³„ì„¸ìš” (ì´ë©”ì¼ ë§ˆë¬´ë¦¬)",
+        "example":  "Best regards, Sunny"
+    },
+    {
+        "id":  228,
+        "word":  "I am reaching out to",
+        "type":  "Business Email",
+        "meaning":  "Making contact with someone for a specific reason",
+        "korean":  "~ì— ëŒ€í•´ ì—°ë½ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I am reaching out to discuss a potential collaboration."
+    },
+    {
+        "id":  229,
+        "word":  "Could we schedule a meeting",
+        "type":  "Business Email",
+        "meaning":  "Asking to arrange a meeting",
+        "korean":  "ë¯¸íŒ…ì„ ìž¡ì„ ìˆ˜ ìžˆì„ê¹Œìš”",
+        "example":  "Could we schedule a meeting for next week to discuss this?"
+    },
+    {
+        "id":  230,
+        "word":  "Please revert to me",
+        "type":  "Business Email",
+        "meaning":  "Please reply to me (used in some regions)",
+        "korean":  "ë‹µë³€ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤",
+        "example":  "Please revert to me with your decision by Thursday."
+    },
+    {
+        "id":  231,
+        "word":  "I wanted to touch base",
+        "type":  "Business Email",
+        "meaning":  "To make brief contact to check in",
+        "korean":  "ê°„ë‹¨ížˆ ì—°ë½ë“œë¦¬ê³  ì‹¶ì—ˆìŠµë‹ˆë‹¤",
+        "example":  "I wanted to touch base regarding the upcoming deadline."
+    },
+    {
+        "id":  232,
+        "word":  "Circling back",
+        "type":  "Business Email",
+        "meaning":  "Returning to a previous topic or message",
+        "korean":  "ì´ì „ ë‚´ìš©ìœ¼ë¡œ ë‹¤ì‹œ ëŒì•„ì™€ì„œ",
+        "example":  "Circling back to my previous email â€” have you had a chance to review it?"
+    },
+    {
+        "id":  233,
+        "word":  "As a matter of urgency",
+        "type":  "Business Email",
+        "meaning":  "Indicating something needs immediate attention",
+        "korean":  "ê¸´ê¸‰í•˜ê²Œ",
+        "example":  "Please address this as a matter of urgency."
+    },
+    {
+        "id":  234,
+        "word":  "I appreciate your patience",
+        "type":  "Business Email",
+        "meaning":  "Thanking someone for waiting",
+        "korean":  "ê¸°ë‹¤ë ¤ ì£¼ì…”ì„œ ê°ì‚¬í•©ë‹ˆë‹¤",
+        "example":  "I appreciate your patience while we resolve this issue."
+    },
+    {
+        "id":  235,
+        "word":  "Per my last email",
+        "type":  "Business Email",
+        "meaning":  "Referring back to a previous email (can sound passive-aggressive)",
+        "korean":  "ì œ ì´ì „ ì´ë©”ì¼ì—ì„œ ì–¸ê¸‰í•œ ë°”ì™€ ê°™ì´",
+        "example":  "Per my last email, the deadline is this Friday."
+    },
+    {
+        "id":  236,
+        "word":  "Moving forward",
+        "type":  "Business Email",
+        "meaning":  "From this point on; in the future",
+        "korean":  "ì•žìœ¼ë¡œëŠ”",
+        "example":  "Moving forward, please send all requests through the portal."
+    },
+    {
+        "id":  237,
+        "word":  "To clarify",
+        "type":  "Business Email",
+        "meaning":  "To make something clearer",
+        "korean":  "ëª…í™•ížˆ ë§ì”€ë“œë¦¬ìžë©´",
+        "example":  "To clarify, the meeting is at 3 PM, not 2 PM."
+    },
+    {
+        "id":  238,
+        "word":  "Please note that",
+        "type":  "Business Email",
+        "meaning":  "Drawing attention to an important detail",
+        "korean":  "ì°¸ê³ ë¡œ ë§ì”€ë“œë¦¬ìžë©´",
+        "example":  "Please note that the deadline has been extended."
+    },
+    {
+        "id":  239,
+        "word":  "I have cc\u0027d",
+        "type":  "Business Email",
+        "meaning":  "I have copied someone else on this email",
+        "korean":  "ì°¸ì¡°ë¡œ ì¶”ê°€í–ˆìŠµë‹ˆë‹¤",
+        "example":  "I have cc\u0027d our manager on this email for reference."
+    },
+    {
+        "id":  240,
+        "word":  "Awaiting your response",
+        "type":  "Business Email",
+        "meaning":  "Waiting for a reply",
+        "korean":  "ë‹µë³€ì„ ê¸°ë‹¤ë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "Awaiting your response at your earliest convenience."
+    },
+    {
+        "id":  241,
+        "word":  "Sounds good to me",
+        "type":  "Business Email",
+        "meaning":  "I agree with that plan",
+        "korean":  "ì¢‹ìŠµë‹ˆë‹¤, ê´œì°®ìŠµë‹ˆë‹¤",
+        "example":  "Sounds good to me â€” let\u0027s go with that plan."
+    },
+    {
+        "id":  242,
+        "word":  "I\u0027ll get back to you",
+        "type":  "Business Email",
+        "meaning":  "I\u0027ll respond to you later",
+        "korean":  "ë‚˜ì¤‘ì— ë‹¤ì‹œ ì—°ë½ë“œë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "I\u0027ll get back to you on that after I check with my team."
+    },
+    {
+        "id":  243,
+        "word":  "Let\u0027s put a pin in that",
+        "type":  "Business Email",
+        "meaning":  "Let\u0027s pause this topic and return to it later",
+        "korean":  "ìž ê¹ ë³´ë¥˜í•˜ê³  ë‚˜ì¤‘ì— ë‹¤ì‹œ ë…¼ì˜í•©ì‹œë‹¤",
+        "example":  "Great idea â€” let\u0027s put a pin in that and revisit it next week."
+    },
+    {
+        "id":  244,
+        "word":  "Please action this",
+        "type":  "Business Email",
+        "meaning":  "Please take action on this matter",
+        "korean":  "ì´ê²ƒì„ ì²˜ë¦¬í•´ ì£¼ì„¸ìš”",
+        "example":  "Please action this before end of day."
+    },
+    {
+        "id":  245,
+        "word":  "I\u0027ll loop you in",
+        "type":  "Business Email",
+        "meaning":  "I\u0027ll include you in the email or conversation",
+        "korean":  "ëŒ€í™”ì— í¬í•¨ì‹œí‚¤ê² ìŠµë‹ˆë‹¤",
+        "example":  "I\u0027ll loop you in when we have more information."
+    },
+    {
+        "id":  246,
+        "word":  "EOD",
+        "type":  "Business Email",
+        "meaning":  "End of day",
+        "korean":  "ì—…ë¬´ ë§ˆê° ì‹œê°„ê¹Œì§€",
+        "example":  "Please send the report by EOD today."
+    },
+    {
+        "id":  247,
+        "word":  "FYI",
+        "type":  "Business Email",
+        "meaning":  "For your information",
+        "korean":  "ì°¸ê³ ë¡œ",
+        "example":  "FYI, the client meeting has been moved to Thursday."
+    },
+    {
+        "id":  248,
+        "word":  "ASAP",
+        "type":  "Business Email",
+        "meaning":  "As soon as possible",
+        "korean":  "ê°€ëŠ¥í•œ í•œ ë¹¨ë¦¬",
+        "example":  "We need this fixed ASAP."
+    },
+    {
+        "id":  249,
+        "word":  "As agreed",
+        "type":  "Business Email",
+        "meaning":  "Following what was decided earlier",
+        "korean":  "í•©ì˜í•œ ëŒ€ë¡œ",
+        "example":  "As agreed, I will take the lead on this project."
+    },
+    {
+        "id":  250,
+        "word":  "Please advise",
+        "type":  "Business Email",
+        "meaning":  "Please give me guidance or information",
+        "korean":  "ì•Œë ¤ì£¼ì„¸ìš”, ì¡°ì–¸ ë¶€íƒë“œë¦½ë‹ˆë‹¤",
+        "example":  "I\u0027m unsure how to proceed â€” please advise."
+    },
+    {
+        "id":  251,
+        "word":  "How\u0027s it going?",
+        "type":  "Conversation",
+        "meaning":  "An informal greeting asking how someone is",
+        "korean":  "ì–´ë–»ê²Œ ì§€ë‚´?",
+        "example":  "Hey Sarah! How\u0027s it going?"
+    },
+    {
+        "id":  252,
+        "word":  "What\u0027s up?",
+        "type":  "Conversation",
+        "meaning":  "An informal greeting; asking what\u0027s happening",
+        "korean":  "ë­í•´? ìž˜ ì§€ë‚´?",
+        "example":  "Hey! What\u0027s up? Haven\u0027t seen you in ages!"
+    },
+    {
+        "id":  253,
+        "word":  "Not bad, thanks",
+        "type":  "Conversation",
+        "meaning":  "A casual response meaning you\u0027re doing okay",
+        "korean":  "ë‚˜ì˜ì§€ ì•Šì•„, ê³ ë§ˆì›Œ",
+        "example":  "How are you? â€” Not bad, thanks. Yourself?"
+    },
+    {
+        "id":  254,
+        "word":  "Can\u0027t complain",
+        "type":  "Conversation",
+        "meaning":  "Things are okay; no reason to complain",
+        "korean":  "ê·¸ëŸ­ì €ëŸ­, ë¶ˆë§Œ ì—†ì–´",
+        "example":  "How\u0027s life? â€” Can\u0027t complain!"
+    },
+    {
+        "id":  255,
+        "word":  "Same old, same old",
+        "type":  "Conversation",
+        "meaning":  "Nothing has changed; the usual routine",
+        "korean":  "ê·¸ëƒ¥ ë˜‘ê°™ì•„, ë³„ì¼ ì—†ì–´",
+        "example":  "What have you been up to? â€” Same old, same old."
+    },
+    {
+        "id":  256,
+        "word":  "I hear you",
+        "type":  "Conversation",
+        "meaning":  "I understand what you\u0027re saying; I sympathize",
+        "korean":  "ë¬´ìŠ¨ ë§ì¸ì§€ ì•Œì•„",
+        "example":  "The commute is exhausting. â€” I hear you, it\u0027s terrible."
+    },
+    {
+        "id":  257,
+        "word":  "Fair enough",
+        "type":  "Conversation",
+        "meaning":  "That\u0027s reasonable; I accept that",
+        "korean":  "ê·¸ë ‡êµ°, ì´í•´í•´",
+        "example":  "I can\u0027t make it tonight. â€” Fair enough, no worries."
+    },
+    {
+        "id":  258,
+        "word":  "That makes sense",
+        "type":  "Conversation",
+        "meaning":  "I understand and it seems logical",
+        "korean":  "ì´í•´ê°€ ë¼, ë§ì´ ë˜ë„¤",
+        "example":  "Oh, that makes sense now that you explain it."
+    },
+    {
+        "id":  259,
+        "word":  "No worries",
+        "type":  "Conversation",
+        "meaning":  "It\u0027s okay; don\u0027t worry about it",
+        "korean":  "ê´œì°®ì•„, ê±±ì • ë§ˆ",
+        "example":  "Sorry I\u0027m late! â€” No worries at all."
+    },
+    {
+        "id":  260,
+        "word":  "Totally",
+        "type":  "Conversation",
+        "meaning":  "Completely; I completely agree",
+        "korean":  "ì™„ì „ížˆ, ë§žì•„",
+        "example":  "That restaurant was amazing! â€” Totally agree!"
+    },
+    {
+        "id":  261,
+        "word":  "Absolutely",
+        "type":  "Conversation",
+        "meaning":  "Definitely; completely",
+        "korean":  "ë¬¼ë¡ ì´ì£ , ë‹¹ì—°í•˜ì£ ",
+        "example":  "Are you coming to the party? â€” Absolutely!"
+    },
+    {
+        "id":  262,
+        "word":  "I\u0027m not sure about that",
+        "type":  "Conversation",
+        "meaning":  "I have some doubts",
+        "korean":  "ê¸€ìŽ„ìš”, ìž˜ ëª¨ë¥´ê² ì–´ìš”",
+        "example":  "I\u0027m not sure about that â€” can you double-check?"
+    },
+    {
+        "id":  263,
+        "word":  "You know what I mean?",
+        "type":  "Conversation",
+        "meaning":  "Do you understand what I\u0027m trying to say?",
+        "korean":  "ë¬´ìŠ¨ ë§ì¸ì§€ ì•Œê² ì–´?",
+        "example":  "It\u0027s just so frustrating, you know what I mean?"
+    },
+    {
+        "id":  264,
+        "word":  "I know, right?",
+        "type":  "Conversation",
+        "meaning":  "I completely agree with what you said",
+        "korean":  "ê·¸ëŸ¬ê²Œ ë§ì´ì•¼!",
+        "example":  "This weather is ridiculous! â€” I know, right?"
+    },
+    {
+        "id":  265,
+        "word":  "To be honest",
+        "type":  "Conversation",
+        "meaning":  "Used before saying something candidly",
+        "korean":  "ì†”ì§ížˆ ë§í•˜ë©´",
+        "example":  "To be honest, I didn\u0027t enjoy the movie that much."
+    },
+    {
+        "id":  266,
+        "word":  "Actually",
+        "type":  "Conversation",
+        "meaning":  "Used to correct or add a surprising detail",
+        "korean":  "ì‚¬ì‹¤ì€",
+        "example":  "Actually, I\u0027ve been to Korea three times!"
+    },
+    {
+        "id":  267,
+        "word":  "Apparently",
+        "type":  "Conversation",
+        "meaning":  "According to what I\u0027ve heard or read",
+        "korean":  "ë“£ê¸°ë¡œëŠ”, ê²‰ìœ¼ë¡œ ë³´ê¸°ì—”",
+        "example":  "Apparently, they\u0027re opening a new branch downtown."
+    },
+    {
+        "id":  268,
+        "word":  "Honestly speaking",
+        "type":  "Conversation",
+        "meaning":  "To be truthful about something",
+        "korean":  "ì†”ì§ížˆ ë§í•˜ìžë©´",
+        "example":  "Honestly speaking, I think you could do better."
+    },
+    {
+        "id":  269,
+        "word":  "As a matter of fact",
+        "type":  "Conversation",
+        "meaning":  "In reality; used to add emphasis",
+        "korean":  "ì‚¬ì‹¤",
+        "example":  "As a matter of fact, I\u0027ve been studying English for 20 years."
+    },
+    {
+        "id":  270,
+        "word":  "Come to think of it",
+        "type":  "Conversation",
+        "meaning":  "Now that I consider it",
+        "korean":  "ìƒê°í•´ë³´ë‹ˆ",
+        "example":  "Come to think of it, I haven\u0027t called her in months."
+    },
+    {
+        "id":  271,
+        "word":  "Speaking of which",
+        "type":  "Conversation",
+        "meaning":  "That reminds me of something related",
+        "korean":  "ê·¸ ë§ì´ ë‚˜ì™€ì„œ ë§ì¸ë°",
+        "example":  "Speaking of which, did you see the news about that?"
+    },
+    {
+        "id":  272,
+        "word":  "By the way",
+        "type":  "Conversation",
+        "meaning":  "Introducing a new topic or afterthought",
+        "korean":  "ê·¸ëŸ°ë°, ì°¸",
+        "example":  "By the way, did you hear about the new cafÃ© downtown?"
+    },
+    {
+        "id":  273,
+        "word":  "Anyway",
+        "type":  "Conversation",
+        "meaning":  "Used to return to a main topic or conclude",
+        "korean":  "ì–´ì¨Œë“ ",
+        "example":  "Anyway, let\u0027s get back to what we were talking about."
+    },
+    {
+        "id":  274,
+        "word":  "Long story short",
+        "type":  "Conversation",
+        "meaning":  "To summarize a complicated story briefly",
+        "korean":  "ê°„ë‹¨ížˆ ë§í•˜ë©´",
+        "example":  "Long story short, I missed the flight and had to book a new one."
+    },
+    {
+        "id":  275,
+        "word":  "What do you think?",
+        "type":  "Conversation",
+        "meaning":  "Asking for someone\u0027s opinion",
+        "korean":  "ì–´ë–»ê²Œ ìƒê°í•´?",
+        "example":  "I\u0027m thinking of changing jobs. What do you think?"
+    },
+    {
+        "id":  276,
+        "word":  "That\u0027s a good point",
+        "type":  "Conversation",
+        "meaning":  "Agreeing that someone made a valid argument",
+        "korean":  "ì¢‹ì€ ì§€ì ì´ì•¼",
+        "example":  "That\u0027s a good point â€” I hadn\u0027t thought about it that way."
+    },
+    {
+        "id":  277,
+        "word":  "I couldn\u0027t agree more",
+        "type":  "Conversation",
+        "meaning":  "I completely agree",
+        "korean":  "ì™„ì „ížˆ ë™ì˜í•´",
+        "example":  "The service here is terrible. â€” I couldn\u0027t agree more!"
+    },
+    {
+        "id":  278,
+        "word":  "I see what you mean",
+        "type":  "Conversation",
+        "meaning":  "I understand your point",
+        "korean":  "ë¬´ìŠ¨ ë§ì¸ì§€ ì•Œê² ì–´",
+        "example":  "I see what you mean, but I think there\u0027s another way."
+    },
+    {
+        "id":  279,
+        "word":  "That\u0027s interesting",
+        "type":  "Conversation",
+        "meaning":  "Showing interest or curiosity",
+        "korean":  "í¥ë¯¸ë¡­ë„¤",
+        "example":  "She grew up speaking three languages. â€” That\u0027s interesting!"
+    },
+    {
+        "id":  280,
+        "word":  "No kidding",
+        "type":  "Conversation",
+        "meaning":  "Really? or You\u0027re serious?; I\u0027m not joking",
+        "korean":  "ì •ë§? ì§„ì§œ?",
+        "example":  "He bought a house in Hawaii! â€” No kidding!"
+    },
+    {
+        "id":  281,
+        "word":  "You\u0027re kidding me",
+        "type":  "Conversation",
+        "meaning":  "Expressing surprise or disbelief",
+        "korean":  "ì„¤ë§ˆ, ì§„ì§œì•¼?",
+        "example":  "You\u0027re kidding me â€” she got the promotion already?"
+    },
+    {
+        "id":  282,
+        "word":  "That\u0027s crazy",
+        "type":  "Conversation",
+        "meaning":  "Expressing strong surprise or disbelief",
+        "korean":  "ë§ë„ ì•ˆ ë¼, ëŒ€ë°•ì´ë‹¤",
+        "example":  "He ran a marathon with no training? That\u0027s crazy!"
+    },
+    {
+        "id":  283,
+        "word":  "Oh my goodness",
+        "type":  "Conversation",
+        "meaning":  "An exclamation of surprise",
+        "korean":  "ì„¸ìƒì—, ì–´ë¨¸ë‚˜",
+        "example":  "Oh my goodness, I can\u0027t believe she said that!"
+    },
+    {
+        "id":  284,
+        "word":  "Wow, I didn\u0027t know that",
+        "type":  "Conversation",
+        "meaning":  "Expressing surprise at new information",
+        "korean":  "ì™€, ëª°ëžì–´",
+        "example":  "The cafe closes at 6? Wow, I didn\u0027t know that."
+    },
+    {
+        "id":  285,
+        "word":  "Tell me about it",
+        "type":  "Conversation",
+        "meaning":  "I completely agree with your frustration",
+        "korean":  "ê·¸ëŸ¬ê²Œ ë§ì´ì•¼ (ê³µê°í•  ë•Œ)",
+        "example":  "The traffic is awful today. â€” Tell me about it!"
+    },
+    {
+        "id":  286,
+        "word":  "It depends",
+        "type":  "Conversation",
+        "meaning":  "The answer varies based on circumstances",
+        "korean":  "ê²½ìš°ì— ë”°ë¼ ë‹¬ë¼",
+        "example":  "Will you go to the party? â€” It depends on how tired I am."
+    },
+    {
+        "id":  287,
+        "word":  "I\u0027ll think about it",
+        "type":  "Conversation",
+        "meaning":  "I\u0027ll consider it but haven\u0027t decided yet",
+        "korean":  "ìƒê°í•´ë³¼ê²Œ",
+        "example":  "Do you want to join the gym? â€” I\u0027ll think about it."
+    },
+    {
+        "id":  288,
+        "word":  "Let me know",
+        "type":  "Conversation",
+        "meaning":  "Please tell me when you decide or know",
+        "korean":  "ì•Œë ¤ì¤˜",
+        "example":  "If you change your plans, let me know."
+    },
+    {
+        "id":  289,
+        "word":  "Keep me posted",
+        "type":  "Conversation",
+        "meaning":  "Continue to give me updates",
+        "korean":  "ê³„ì† ì•Œë ¤ì¤˜",
+        "example":  "Keep me posted on how the interview goes!"
+    },
+    {
+        "id":  290,
+        "word":  "I\u0027ll take your word for it",
+        "type":  "Conversation",
+        "meaning":  "I\u0027ll believe you without needing proof",
+        "korean":  "ë¯¿ì„ê²Œ",
+        "example":  "It\u0027s the best pizza in town! â€” I\u0027ll take your word for it."
+    },
+    {
+        "id":  291,
+        "word":  "Better late than never",
+        "type":  "Conversation",
+        "meaning":  "It\u0027s better to do something late than not at all",
+        "korean":  "ëŠ¦ì—ˆì§€ë§Œ ì•ˆ í•˜ëŠ” ê²ƒë³´ë‹¤ ë‚«ë‹¤",
+        "example":  "You finally started studying English! Better late than never."
+    },
+    {
+        "id":  292,
+        "word":  "I owe you one",
+        "type":  "Conversation",
+        "meaning":  "I am indebted to you for a favor",
+        "korean":  "ì‹ ì„¸ì¡Œì–´, ë‹¤ìŒì— ê¼­ ê°šì„ê²Œ",
+        "example":  "Thanks for covering for me! I owe you one."
+    },
+    {
+        "id":  293,
+        "word":  "No big deal",
+        "type":  "Conversation",
+        "meaning":  "It\u0027s not important; it doesn\u0027t matter",
+        "korean":  "ë³„ê±° ì•„ë‹ˆì•¼, ê´œì°®ì•„",
+        "example":  "Sorry for being late! â€” No big deal, we just started."
+    },
+    {
+        "id":  294,
+        "word":  "That\u0027s the thing",
+        "type":  "Conversation",
+        "meaning":  "Used to highlight the key point or difficulty",
+        "korean":  "ë°”ë¡œ ê·¸ê²Œ ë¬¸ì œì•¼",
+        "example":  "That\u0027s the thing â€” I don\u0027t actually know how to fix it."
+    },
+    {
+        "id":  295,
+        "word":  "On the bright side",
+        "type":  "Conversation",
+        "meaning":  "Looking at the positive aspect of a bad situation",
+        "korean":  "ê¸ì •ì ìœ¼ë¡œ ë³´ë©´",
+        "example":  "I missed the bus, but on the bright side, I got some exercise walking!"
+    },
+    {
+        "id":  296,
+        "word":  "At least",
+        "type":  "Conversation",
+        "meaning":  "Used to find something positive in a bad situation",
+        "korean":  "ì ì–´ë„, ê·¸ë‚˜ë§ˆ",
+        "example":  "I failed the test, but at least I know what to study now."
+    },
+    {
+        "id":  297,
+        "word":  "So far so good",
+        "type":  "Conversation",
+        "meaning":  "Everything is going well up to this point",
+        "korean":  "ì§€ê¸ˆê¹Œì§€ëŠ” ì¢‹ì•„",
+        "example":  "How\u0027s the new job? â€” So far so good!"
+    },
+    {
+        "id":  298,
+        "word":  "You\u0027re welcome",
+        "type":  "Conversation",
+        "meaning":  "A polite response to being thanked",
+        "korean":  "ì²œë§Œì—ìš”",
+        "example":  "Thank you so much! â€” You\u0027re welcome!"
+    },
+    {
+        "id":  299,
+        "word":  "Don\u0027t mention it",
+        "type":  "Conversation",
+        "meaning":  "An informal way of saying you\u0027re welcome",
+        "korean":  "ë³„ë§ì”€ì„ìš”",
+        "example":  "Thanks for helping me move! â€” Don\u0027t mention it, happy to help."
+    },
+    {
+        "id":  300,
+        "word":  "My pleasure",
+        "type":  "Conversation",
+        "meaning":  "I was happy to help",
+        "korean":  "ì œê°€ ì˜¤ížˆë ¤ ê¸°ì©ë‹ˆë‹¤",
+        "example":  "Thank you for dinner! â€” My pleasure, I\u0027m glad you enjoyed it."
+    },
+    {
+        "id":  301,
+        "word":  "branch out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To try new things or expand into new areas",
+        "korean":  "ì˜ì—­ì„ ë„“ížˆë‹¤, ìƒˆë¡œìš´ ê²ƒì„ ì‹œë„í•˜ë‹¤",
+        "example":  "After 10 years in accounting, she decided to branch out into consulting."
+    },
+    {
+        "id":  302,
+        "word":  "bail out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To rescue someone from a difficult situation; to abandon a plan",
+        "korean":  "êµ¬í•´ì£¼ë‹¤; ë¹ ì ¸ë‚˜ê°€ë‹¤",
+        "example":  "His parents bailed him out when he missed the rent."
+    },
+    {
+        "id":  303,
+        "word":  "bear with",
+        "type":  "Phrasal Verb",
+        "meaning":  "To be patient with someone or something",
+        "korean":  "ì°¸ì•„ì£¼ë‹¤, ê¸°ë‹¤ë ¤ì£¼ë‹¤",
+        "example":  "Bear with me while I pull up the file."
+    },
+    {
+        "id":  304,
+        "word":  "boil down to",
+        "type":  "Phrasal Verb",
+        "meaning":  "To be summarized or reduced to the most important point",
+        "korean":  "ê²°êµ­ ~ë¡œ ê·€ê²°ë˜ë‹¤",
+        "example":  "It all boils down to trust and communication."
+    },
+    {
+        "id":  305,
+        "word":  "bring forward",
+        "type":  "Phrasal Verb",
+        "meaning":  "To move something to an earlier date; to propose something",
+        "korean":  "ì•žë‹¹ê¸°ë‹¤; ì œì•ˆí•˜ë‹¤",
+        "example":  "The meeting has been brought forward to Monday."
+    },
+    {
+        "id":  306,
+        "word":  "cave in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To give in to pressure; to collapse",
+        "korean":  "êµ´ë³µí•˜ë‹¤; ë¶•ê´´í•˜ë‹¤",
+        "example":  "Management caved in after employees threatened to strike."
+    },
+    {
+        "id":  307,
+        "word":  "clear up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To resolve a misunderstanding; for weather to become clear",
+        "korean":  "í•´ê²°í•˜ë‹¤; ë‚ ì”¨ê°€ ê°œë‹¤",
+        "example":  "Let me clear up any confusion about the deadline."
+    },
+    {
+        "id":  308,
+        "word":  "come forward",
+        "type":  "Phrasal Verb",
+        "meaning":  "To volunteer information or to step up",
+        "korean":  "ë‚˜ì„œë‹¤, ìžì›í•˜ë‹¤",
+        "example":  "No witnesses came forward after the incident."
+    },
+    {
+        "id":  309,
+        "word":  "come off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To succeed; to give a certain impression",
+        "korean":  "ì„±ê³µí•˜ë‹¤; ~ì²˜ëŸ¼ ë³´ì´ë‹¤",
+        "example":  "His apology didn\u0027t come off as sincere."
+    },
+    {
+        "id":  310,
+        "word":  "cut in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To interrupt a conversation or to move in front of someone",
+        "korean":  "ë¼ì–´ë“¤ë‹¤",
+        "example":  "Sorry to cut in, but I need to add something."
+    },
+    {
+        "id":  311,
+        "word":  "drag on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To last longer than expected in a boring way",
+        "korean":  "ì§ˆì§ˆ ëŒë‹¤",
+        "example":  "The meeting dragged on for three hours."
+    },
+    {
+        "id":  312,
+        "word":  "ease up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To become less intense; to relax",
+        "korean":  "ëˆ„ê·¸ëŸ¬ì§€ë‹¤, ì™„í™”ë˜ë‹¤",
+        "example":  "The pressure at work finally eased up after the deadline."
+    },
+    {
+        "id":  313,
+        "word":  "fend off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To resist or keep something away",
+        "korean":  "ë¬¼ë¦¬ì¹˜ë‹¤, ë§‰ì•„ë‚´ë‹¤",
+        "example":  "She fended off the criticism by staying calm."
+    },
+    {
+        "id":  314,
+        "word":  "firm up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make something more definite or solid",
+        "korean":  "í™•ì •ì§“ë‹¤, êµ³ížˆë‹¤",
+        "example":  "Let\u0027s firm up the details before we announce anything."
+    },
+    {
+        "id":  315,
+        "word":  "follow up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To pursue something further after an initial action",
+        "korean":  "í›„ì† ì¡°ì¹˜ë¥¼ ì·¨í•˜ë‹¤",
+        "example":  "I\u0027ll follow up with the client after the presentation."
+    },
+    {
+        "id":  316,
+        "word":  "gear up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To prepare for something",
+        "korean":  "ì¤€ë¹„í•˜ë‹¤",
+        "example":  "The whole team is gearing up for the product launch."
+    },
+    {
+        "id":  317,
+        "word":  "hammer out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reach an agreement after long discussion",
+        "korean":  "í˜‘ìƒí•´ì„œ íƒ€ê²°í•˜ë‹¤",
+        "example":  "They finally hammered out a deal after weeks of negotiations."
+    },
+    {
+        "id":  318,
+        "word":  "hold off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To delay doing something; to keep something at bay",
+        "korean":  "ë¯¸ë£¨ë‹¤; ë²„í‹°ë‹¤",
+        "example":  "Let\u0027s hold off on making any decisions until we have more data."
+    },
+    {
+        "id":  319,
+        "word":  "jump in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To enter a conversation or activity enthusiastically",
+        "korean":  "ë¼ì–´ë“¤ë‹¤, ë›°ì–´ë“¤ë‹¤",
+        "example":  "Feel free to jump in if you have any questions."
+    },
+    {
+        "id":  320,
+        "word":  "lay out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To explain something clearly; to arrange items",
+        "korean":  "ì„¤ëª…í•˜ë‹¤; íŽ¼ì¹˜ë‹¤",
+        "example":  "Let me lay out the plan step by step."
+    },
+    {
+        "id":  321,
+        "word":  "level off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop increasing or decreasing and stay steady",
+        "korean":  "í‰ì¤€í™”ë˜ë‹¤, ì•ˆì •ë˜ë‹¤",
+        "example":  "After months of growth, sales finally leveled off."
+    },
+    {
+        "id":  322,
+        "word":  "nail down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To finalize the details of something",
+        "korean":  "ëª» ë°•ë‹¤, í™•ì •ì§“ë‹¤",
+        "example":  "We need to nail down the budget before moving forward."
+    },
+    {
+        "id":  323,
+        "word":  "pan out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To develop in a successful way",
+        "korean":  "ìž˜ ë˜ë‹¤, ì„±ê³µí•˜ë‹¤",
+        "example":  "I hope this new strategy pans out."
+    },
+    {
+        "id":  324,
+        "word":  "pitch in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To contribute help or money",
+        "korean":  "íž˜ì„ ë³´íƒœë‹¤, ë•ë‹¤",
+        "example":  "If everyone pitches in, we\u0027ll finish by noon."
+    },
+    {
+        "id":  325,
+        "word":  "play out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To develop or unfold over time",
+        "korean":  "ì „ê°œë˜ë‹¤",
+        "example":  "Let\u0027s see how this situation plays out."
+    },
+    {
+        "id":  326,
+        "word":  "pull off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To succeed in doing something difficult",
+        "korean":  "í•´ë‚´ë‹¤",
+        "example":  "She pulled off an amazing presentation with no preparation."
+    },
+    {
+        "id":  327,
+        "word":  "push back",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reschedule to a later time; to resist or oppose",
+        "korean":  "ë¯¸ë£¨ë‹¤; ë°˜ë°œí•˜ë‹¤",
+        "example":  "The launch was pushed back by two weeks."
+    },
+    {
+        "id":  328,
+        "word":  "ramp up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To increase in speed, intensity, or production",
+        "korean":  "ê°€ì†í•˜ë‹¤, ëŠ˜ë¦¬ë‹¤",
+        "example":  "We need to ramp up production to meet demand."
+    },
+    {
+        "id":  329,
+        "word":  "roll out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To launch or introduce something gradually",
+        "korean":  "ì¶œì‹œí•˜ë‹¤, ë°°í¬í•˜ë‹¤",
+        "example":  "The new software will be rolled out next quarter."
+    },
+    {
+        "id":  330,
+        "word":  "rule out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To eliminate something as a possibility",
+        "korean":  "ë°°ì œí•˜ë‹¤",
+        "example":  "We can\u0027t rule out the possibility of delays."
+    },
+    {
+        "id":  331,
+        "word":  "run by",
+        "type":  "Phrasal Verb",
+        "meaning":  "To quickly mention or check something with someone",
+        "korean":  "~ì—ê²Œ í™•ì¸ë°›ë‹¤",
+        "example":  "Let me run this idea by my manager first."
+    },
+    {
+        "id":  332,
+        "word":  "scale back",
+        "type":  "Phrasal Verb",
+        "meaning":  "To reduce the size or scope of something",
+        "korean":  "ê·œëª¨ë¥¼ ì¤„ì´ë‹¤",
+        "example":  "We had to scale back our plans due to budget cuts."
+    },
+    {
+        "id":  333,
+        "word":  "see through",
+        "type":  "Phrasal Verb",
+        "meaning":  "To recognize the truth behind a deception; to complete something",
+        "korean":  "ê¿°ëš«ì–´ ë³´ë‹¤; ëê¹Œì§€ í•´ë‚´ë‹¤",
+        "example":  "I can see through his excuses â€” he just doesn\u0027t want to come."
+    },
+    {
+        "id":  334,
+        "word":  "shake up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make major changes to something",
+        "korean":  "ë’¤í”ë“¤ë‹¤, ê°œíŽ¸í•˜ë‹¤",
+        "example":  "The new CEO shook up the entire company structure."
+    },
+    {
+        "id":  335,
+        "word":  "sink in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To be fully understood or realized",
+        "korean":  "ì‹¤ê°ì´ ë‚˜ë‹¤, ì´í•´ê°€ ë˜ë‹¤",
+        "example":  "The news hasn\u0027t fully sunk in yet."
+    },
+    {
+        "id":  336,
+        "word":  "slip up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make a careless mistake",
+        "korean":  "ì‹¤ìˆ˜í•˜ë‹¤",
+        "example":  "I slipped up and called him by the wrong name."
+    },
+    {
+        "id":  337,
+        "word":  "square away",
+        "type":  "Phrasal Verb",
+        "meaning":  "To settle or put in order",
+        "korean":  "ì²˜ë¦¬í•˜ë‹¤, í•´ê²°í•˜ë‹¤",
+        "example":  "Let me get this squared away before the weekend."
+    },
+    {
+        "id":  338,
+        "word":  "step up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To take on more responsibility; to increase",
+        "korean":  "ë‚˜ì„œë‹¤; ë†’ì´ë‹¤",
+        "example":  "Someone needs to step up and lead this project."
+    },
+    {
+        "id":  339,
+        "word":  "stretch out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To extend over a long time; to lie down and relax",
+        "korean":  "ê¸¸ê²Œ ëŠ˜ì´ë‹¤; ì­‰ íŽ´ë‹¤",
+        "example":  "The project stretched out over several months."
+    },
+    {
+        "id":  340,
+        "word":  "tighten up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To make something stricter or more secure",
+        "korean":  "ê°•í™”í•˜ë‹¤, ë‹¨ë‹¨ížˆ í•˜ë‹¤",
+        "example":  "We need to tighten up our security procedures."
+    },
+    {
+        "id":  341,
+        "word":  "touch on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To briefly mention or deal with a topic",
+        "korean":  "ìž ê¹ ì–¸ê¸‰í•˜ë‹¤",
+        "example":  "She touched on several key issues in her speech."
+    },
+    {
+        "id":  342,
+        "word":  "trick into",
+        "type":  "Phrasal Verb",
+        "meaning":  "To deceive someone into doing something",
+        "korean":  "ì†ì—¬ì„œ ~í•˜ê²Œ í•˜ë‹¤",
+        "example":  "He was tricked into signing the contract."
+    },
+    {
+        "id":  343,
+        "word":  "tune out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop paying attention to something",
+        "korean":  "ë¬´ì‹œí•˜ë‹¤, ê·€ë¥¼ ë‹«ë‹¤",
+        "example":  "After an hour of the lecture, I started tuning out."
+    },
+    {
+        "id":  344,
+        "word":  "wear off",
+        "type":  "Phrasal Verb",
+        "meaning":  "To gradually disappear or diminish",
+        "korean":  "ì°¨ì°¨ ì‚¬ë¼ì§€ë‹¤",
+        "example":  "The excitement of a new job wears off after a while."
+    },
+    {
+        "id":  345,
+        "word":  "weigh in",
+        "type":  "Phrasal Verb",
+        "meaning":  "To give your opinion on something",
+        "korean":  "ì˜ê²¬ì„ ë‚´ë‹¤",
+        "example":  "Would you like to weigh in on this decision?"
+    },
+    {
+        "id":  346,
+        "word":  "wind down",
+        "type":  "Phrasal Verb",
+        "meaning":  "To gradually slow down or come to an end",
+        "korean":  "ì„œì„œížˆ ë§ˆë¬´ë¦¬í•˜ë‹¤",
+        "example":  "The party started winding down around midnight."
+    },
+    {
+        "id":  347,
+        "word":  "work up",
+        "type":  "Phrasal Verb",
+        "meaning":  "To develop or build gradually; to make yourself feel something",
+        "korean":  "ë§Œë“¤ì–´ë‚´ë‹¤; ë¶ˆëŸ¬ì¼ìœ¼í‚¤ë‹¤",
+        "example":  "I need to work up the courage to ask for a raise."
+    },
+    {
+        "id":  348,
+        "word":  "zero in on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To focus closely on something",
+        "korean":  "ì§‘ì¤‘í•˜ë‹¤, ì´ˆì ì„ ë§žì¶”ë‹¤",
+        "example":  "Let\u0027s zero in on the main problem here."
+    },
+    {
+        "id":  349,
+        "word":  "zone out",
+        "type":  "Phrasal Verb",
+        "meaning":  "To stop paying attention and daydream",
+        "korean":  "ë©í•˜ë‹ˆ ìžˆë‹¤, ë”´ ìƒê°ì— ë¹ ì§€ë‹¤",
+        "example":  "Sorry, I zoned out â€” what were you saying?"
+    },
+    {
+        "id":  350,
+        "word":  "zoom in on",
+        "type":  "Phrasal Verb",
+        "meaning":  "To focus on a specific detail more closely",
+        "korean":  "í™•ëŒ€í•˜ë‹¤, ì§‘ì¤‘í•˜ë‹¤",
+        "example":  "The analysis zooms in on customer behavior in Q3."
+    },
+    {
+        "id":  351,
+        "word":  "burn the midnight oil",
+        "type":  "Idiom",
+        "meaning":  "To work late into the night",
+        "korean":  "ë°¤ëŠ¦ê²Œê¹Œì§€ ì¼í•˜ë‹¤",
+        "example":  "I\u0027ve been burning the midnight oil to finish this report."
+    },
+    {
+        "id":  352,
+        "word":  "the ball is rolling",
+        "type":  "Idiom",
+        "meaning":  "Something has started and is in progress",
+        "korean":  "ì¼ì´ ì§„í–‰ ì¤‘ì´ë‹¤",
+        "example":  "Now that funding is secured, the ball is rolling."
+    },
+    {
+        "id":  353,
+        "word":  "read between the lines",
+        "type":  "Idiom",
+        "meaning":  "To understand a hidden meaning",
+        "korean":  "í–‰ê°„ì„ ì½ë‹¤",
+        "example":  "Reading between the lines, I think she wants more recognition."
+    },
+    {
+        "id":  354,
+        "word":  "shoot yourself in the foot",
+        "type":  "Idiom",
+        "meaning":  "To do something that harms your own interests",
+        "korean":  "ìžì¶©ìˆ˜ë¥¼ ë‘ë‹¤",
+        "example":  "He shot himself in the foot by arguing with the client."
+    },
+    {
+        "id":  355,
+        "word":  "get a taste of your own medicine",
+        "type":  "Idiom",
+        "meaning":  "To experience what you make others go through",
+        "korean":  "ìžì—…ìžë“",
+        "example":  "He was always interrupting people â€” now he\u0027s getting a taste of his own medicine."
+    },
+    {
+        "id":  356,
+        "word":  "the elephant in the room",
+        "type":  "Idiom",
+        "meaning":  "An obvious problem that no one wants to discuss",
+        "korean":  "ëª¨ë‘ê°€ ì•Œì§€ë§Œ ë§ ëª» í•˜ëŠ” ë¬¸ì œ",
+        "example":  "His drinking was the elephant in the room at every family dinner."
+    },
+    {
+        "id":  357,
+        "word":  "hit below the belt",
+        "type":  "Idiom",
+        "meaning":  "To say or do something unfair or cruel",
+        "korean":  "ë°˜ì¹™ì„ ì“°ë‹¤, ë¹„ê²í•œ ì§“ì„ í•˜ë‹¤",
+        "example":  "Bringing up his past mistakes in public was hitting below the belt."
+    },
+    {
+        "id":  358,
+        "word":  "move the goalposts",
+        "type":  "Idiom",
+        "meaning":  "To change the rules or expectations unfairly",
+        "korean":  "ê¸°ì¤€ì„ ë°”ê¾¸ë‹¤",
+        "example":  "Every time we meet the targets, they move the goalposts."
+    },
+    {
+        "id":  359,
+        "word":  "the writing is on the wall",
+        "type":  "Idiom",
+        "meaning":  "The signs of something bad are clear",
+        "korean":  "ì§•ì¡°ê°€ ë³´ì´ë‹¤, ê²°ë§ì´ ë»”í•˜ë‹¤",
+        "example":  "The writing is on the wall â€” they\u0027re going to close the department."
+    },
+    {
+        "id":  360,
+        "word":  "bite the dust",
+        "type":  "Idiom",
+        "meaning":  "To fail or die",
+        "korean":  "ì‹¤íŒ¨í•˜ë‹¤, ì“°ëŸ¬ì§€ë‹¤",
+        "example":  "Three of our competitors bit the dust during the recession."
+    },
+    {
+        "id":  361,
+        "word":  "cry wolf",
+        "type":  "Idiom",
+        "meaning":  "To raise a false alarm repeatedly",
+        "korean":  "ê±°ì§“ë§ì„ ë°˜ë³µí•˜ë‹¤",
+        "example":  "He cried wolf so many times that no one believed him."
+    },
+    {
+        "id":  362,
+        "word":  "get cold feet",
+        "type":  "Idiom",
+        "meaning":  "To become nervous or hesitant before something",
+        "korean":  "ê²ì´ ë‚˜ë‹¤, ë§ì„¤ì´ë‹¤",
+        "example":  "She got cold feet right before the wedding."
+    },
+    {
+        "id":  363,
+        "word":  "have a chip on your shoulder",
+        "type":  "Idiom",
+        "meaning":  "To feel resentful because of past unfair treatment",
+        "korean":  "ì–µìš¸í•¨ì„ í’ˆê³  ìžˆë‹¤",
+        "example":  "He\u0027s had a chip on his shoulder ever since he was passed over for promotion."
+    },
+    {
+        "id":  364,
+        "word":  "in hot water",
+        "type":  "Idiom",
+        "meaning":  "In serious trouble",
+        "korean":  "ê³¤ê²½ì— ì²˜í•˜ë‹¤",
+        "example":  "He\u0027s in hot water after missing the deadline again."
+    },
+    {
+        "id":  365,
+        "word":  "keep a low profile",
+        "type":  "Idiom",
+        "meaning":  "To avoid drawing attention to yourself",
+        "korean":  "ëˆˆì— ë„ì§€ ì•Šê²Œ ì§€ë‚´ë‹¤",
+        "example":  "After the scandal, she decided to keep a low profile."
+    },
+    {
+        "id":  366,
+        "word":  "not my cup of tea",
+        "type":  "Idiom",
+        "meaning":  "Something you don\u0027t enjoy or prefer",
+        "korean":  "ë‚´ ì·¨í–¥ì´ ì•„ë‹ˆë‹¤",
+        "example":  "Reality TV is really not my cup of tea."
+    },
+    {
+        "id":  367,
+        "word":  "open a can of worms",
+        "type":  "Idiom",
+        "meaning":  "To create a complicated situation by addressing something",
+        "korean":  "íŒë„ë¼ì˜ ìƒìžë¥¼ ì—´ë‹¤",
+        "example":  "Bringing that up will open a can of worms."
+    },
+    {
+        "id":  368,
+        "word":  "pass the buck",
+        "type":  "Idiom",
+        "meaning":  "To shift responsibility to someone else",
+        "korean":  "ì±…ìž„ì„ ë– ë„˜ê¸°ë‹¤",
+        "example":  "He\u0027s always passing the buck instead of owning up."
+    },
+    {
+        "id":  369,
+        "word":  "rock the boat",
+        "type":  "Idiom",
+        "meaning":  "To do something that upsets the current situation",
+        "korean":  "íŒŒëž€ì„ ì¼ìœ¼í‚¤ë‹¤",
+        "example":  "He didn\u0027t want to rock the boat by complaining."
+    },
+    {
+        "id":  370,
+        "word":  "see eye to eye",
+        "type":  "Idiom",
+        "meaning":  "To agree with someone",
+        "korean":  "ì˜ê²¬ì´ ì¼ì¹˜í•˜ë‹¤",
+        "example":  "We don\u0027t always see eye to eye, but we respect each other."
+    },
+    {
+        "id":  371,
+        "word":  "sell like hotcakes",
+        "type":  "Idiom",
+        "meaning":  "To sell very quickly in large quantities",
+        "korean":  "ë‚ ê°œ ë‹ì¹œ ë“¯ íŒ”ë¦¬ë‹¤",
+        "example":  "The new phone is selling like hotcakes."
+    },
+    {
+        "id":  372,
+        "word":  "stand your ground",
+        "type":  "Idiom",
+        "meaning":  "To maintain your position or opinion under pressure",
+        "korean":  "ìžê¸° ìž…ìž¥ì„ ê³ ìˆ˜í•˜ë‹¤",
+        "example":  "She stood her ground despite the criticism."
+    },
+    {
+        "id":  373,
+        "word":  "stir up trouble",
+        "type":  "Idiom",
+        "meaning":  "To cause problems or conflict",
+        "korean":  "ë¶„ëž€ì„ ì¼ìœ¼í‚¤ë‹¤",
+        "example":  "He always stirs up trouble wherever he goes."
+    },
+    {
+        "id":  374,
+        "word":  "sweep under the rug",
+        "type":  "Idiom",
+        "meaning":  "To hide a problem instead of dealing with it",
+        "korean":  "ë®ì–´ë‘ë‹¤, ì‰¬ì‰¬í•˜ë‹¤",
+        "example":  "You can\u0027t keep sweeping these issues under the rug."
+    },
+    {
+        "id":  375,
+        "word":  "the last straw",
+        "type":  "Idiom",
+        "meaning":  "The final problem that makes a situation unbearable",
+        "korean":  "ë§ˆì§€ë§‰ í•œ ë°©ìš¸, ì°¸ì„ ìˆ˜ ì—†ê²Œ ë§Œë“œëŠ” ë§ˆì§€ë§‰ ê²ƒ",
+        "example":  "Forgetting our anniversary was the last straw."
+    },
+    {
+        "id":  376,
+        "word":  "think outside the box",
+        "type":  "Idiom",
+        "meaning":  "To approach a problem in a creative way",
+        "korean":  "ì°½ì˜ì ìœ¼ë¡œ ìƒê°í•˜ë‹¤",
+        "example":  "We need to think outside the box to solve this."
+    },
+    {
+        "id":  377,
+        "word":  "turn a blind eye",
+        "type":  "Idiom",
+        "meaning":  "To deliberately ignore something wrong",
+        "korean":  "ëª» ë³¸ ì²™í•˜ë‹¤",
+        "example":  "Management turned a blind eye to the bullying."
+    },
+    {
+        "id":  378,
+        "word":  "under pressure",
+        "type":  "Idiom",
+        "meaning":  "Experiencing stress or urgency to perform",
+        "korean":  "ì••ë°•ì„ ë°›ì•„",
+        "example":  "She performs best when under pressure."
+    },
+    {
+        "id":  379,
+        "word":  "wear many hats",
+        "type":  "Idiom",
+        "meaning":  "To have many different roles or responsibilities",
+        "korean":  "ë‹¤ì–‘í•œ ì—­í• ì„ í•˜ë‹¤",
+        "example":  "In a small company, you wear many hats."
+    },
+    {
+        "id":  380,
+        "word":  "when pigs fly",
+        "type":  "Idiom",
+        "meaning":  "Something that will never happen",
+        "korean":  "ì ˆëŒ€ ì¼ì–´ë‚˜ì§€ ì•Šì„ ì¼",
+        "example":  "He\u0027ll clean his room when pigs fly."
+    },
+    {
+        "id":  381,
+        "word":  "get the ball rolling",
+        "type":  "Idiom",
+        "meaning":  "To start something; to initiate action",
+        "korean":  "ì¼ì„ ì‹œìž‘í•˜ë‹¤",
+        "example":  "Let\u0027s get the ball rolling on this new initiative."
+    },
+    {
+        "id":  382,
+        "word":  "a dime a dozen",
+        "type":  "Idiom",
+        "meaning":  "Very common and not valuable",
+        "korean":  "í”í•˜ë””í”í•œ",
+        "example":  "English tutors are a dime a dozen online."
+    },
+    {
+        "id":  383,
+        "word":  "cut to the chase",
+        "type":  "Idiom",
+        "meaning":  "To get to the important point without delay",
+        "korean":  "í•µì‹¬ìœ¼ë¡œ ë°”ë¡œ ê°€ë‹¤",
+        "example":  "Let\u0027s cut to the chase â€” are you interested or not?"
+    },
+    {
+        "id":  384,
+        "word":  "go back to the drawing board",
+        "type":  "Idiom",
+        "meaning":  "To start planning something again from the beginning",
+        "korean":  "ì²˜ìŒë¶€í„° ë‹¤ì‹œ ì‹œìž‘í•˜ë‹¤",
+        "example":  "The proposal was rejected, so we\u0027re going back to the drawing board."
+    },
+    {
+        "id":  385,
+        "word":  "have the upper hand",
+        "type":  "Idiom",
+        "meaning":  "To be in a position of advantage",
+        "korean":  "ìš°ìœ„ì— ìžˆë‹¤",
+        "example":  "Knowing multiple languages gives you the upper hand in interviews."
+    },
+    {
+        "id":  386,
+        "word":  "in the blink of an eye",
+        "type":  "Idiom",
+        "meaning":  "Very quickly",
+        "korean":  "ëˆˆ ê¹œì§í•  ì‚¬ì´ì—",
+        "example":  "Twenty years passed in the blink of an eye."
+    },
+    {
+        "id":  387,
+        "word":  "make a mountain out of a molehill",
+        "type":  "Idiom",
+        "meaning":  "To exaggerate a small problem",
+        "korean":  "ì¹¨ì†Œë´‰ëŒ€í•˜ë‹¤",
+        "example":  "Don\u0027t make a mountain out of a molehill â€” it\u0027s just a small delay."
+    },
+    {
+        "id":  388,
+        "word":  "not beat around the bush",
+        "type":  "Idiom",
+        "meaning":  "To say something directly",
+        "korean":  "ë¹™ë¹™ ëŒë¦¬ì§€ ì•Šê³  ë§í•˜ë‹¤",
+        "example":  "I won\u0027t beat around the bush â€” the results were disappointing."
+    },
+    {
+        "id":  389,
+        "word":  "on the same page",
+        "type":  "Idiom",
+        "meaning":  "In agreement; sharing the same understanding",
+        "korean":  "ê°™ì€ ì´í•´ë¥¼ í•˜ë‹¤",
+        "example":  "Before we start, let\u0027s make sure we\u0027re all on the same page."
+    },
+    {
+        "id":  390,
+        "word":  "pull strings",
+        "type":  "Idiom",
+        "meaning":  "To use personal influence to get something done",
+        "korean":  "ì¤„ì„ ì“°ë‹¤, ë’·ë°°ë¥¼ ì´ìš©í•˜ë‹¤",
+        "example":  "He pulled strings to get his son into the company."
+    },
+    {
+        "id":  391,
+        "word":  "run a tight ship",
+        "type":  "Idiom",
+        "meaning":  "To manage something in a strict and efficient way",
+        "korean":  "ì—„ê²©í•˜ê²Œ ìš´ì˜í•˜ë‹¤",
+        "example":  "Our manager runs a tight ship â€” everyone is always on time."
+    },
+    {
+        "id":  392,
+        "word":  "the ball is in their court",
+        "type":  "Idiom",
+        "meaning":  "It\u0027s their turn to decide or take action",
+        "korean":  "ì´ì œ ê·¸ë“¤ì´ ê²°ì •í•  ì°¨ë¡€ë‹¤",
+        "example":  "I\u0027ve sent the offer. The ball is in their court now."
+    },
+    {
+        "id":  393,
+        "word":  "through thick and thin",
+        "type":  "Idiom",
+        "meaning":  "In all circumstances, good or bad",
+        "korean":  "ì¢‹ì„ ë•Œë‚˜ ë‚˜ì  ë•Œë‚˜",
+        "example":  "She\u0027s been there for me through thick and thin."
+    },
+    {
+        "id":  394,
+        "word":  "under the gun",
+        "type":  "Idiom",
+        "meaning":  "Under pressure to meet a deadline",
+        "korean":  "ë§ˆê°ì— ì«“ê¸°ë‹¤",
+        "example":  "We\u0027re under the gun to finish this by Friday."
+    },
+    {
+        "id":  395,
+        "word":  "walk on eggshells",
+        "type":  "Idiom",
+        "meaning":  "To be very careful not to upset someone",
+        "korean":  "ëˆˆì¹˜ë¥¼ ë³´ë‹¤, ì¡°ì‹¬ìŠ¤ëŸ½ê²Œ í–‰ë™í•˜ë‹¤",
+        "example":  "I feel like I\u0027m always walking on eggshells around him."
+    },
+    {
+        "id":  396,
+        "word":  "burn the candle at both ends",
+        "type":  "Idiom",
+        "meaning":  "To work too hard with too little rest",
+        "korean":  "ë¬´ë¦¬í•˜ê²Œ ì¼í•˜ë‹¤",
+        "example":  "She\u0027s been burning the candle at both ends and is exhausted."
+    },
+    {
+        "id":  397,
+        "word":  "get your act together",
+        "type":  "Idiom",
+        "meaning":  "To organize yourself and behave more responsibly",
+        "korean":  "ì •ì‹  ì°¨ë¦¬ë‹¤, ì œëŒ€ë¡œ í•˜ë‹¤",
+        "example":  "You really need to get your act together before the deadline."
+    },
+    {
+        "id":  398,
+        "word":  "hit a wall",
+        "type":  "Idiom",
+        "meaning":  "To reach a point where progress stops",
+        "korean":  "ë§‰ížˆë‹¤, í•œê³„ì— ë¶€ë”ªížˆë‹¤",
+        "example":  "I hit a wall after two hours of studying and couldn\u0027t focus."
+    },
+    {
+        "id":  399,
+        "word":  "let the dust settle",
+        "type":  "Idiom",
+        "meaning":  "To wait for a situation to calm down before acting",
+        "korean":  "ìƒí™©ì´ ê°€ë¼ì•‰ê¸°ë¥¼ ê¸°ë‹¤ë¦¬ë‹¤",
+        "example":  "Let the dust settle before you respond to that email."
+    },
+    {
+        "id":  400,
+        "word":  "take it with a grain of salt",
+        "type":  "Idiom",
+        "meaning":  "To not believe something completely",
+        "korean":  "ë°˜ì‹ ë°˜ì˜í•˜ë‹¤",
+        "example":  "Take his advice with a grain of salt â€” he\u0027s not an expert."
+    },
+    {
+        "id":  401,
+        "word":  "I wanted to follow up on my previous message",
+        "type":  "Business Email",
+        "meaning":  "Checking in about an email or request that hasn\u0027t been answered",
+        "korean":  "ì´ì „ ë©”ì‹œì§€ì— ëŒ€í•´ ë‹¤ì‹œ í™•ì¸í•˜ê³  ì‹¶ì—ˆìŠµë‹ˆë‹¤",
+        "example":  "I wanted to follow up on my previous message regarding the proposal."
+    },
+    {
+        "id":  402,
+        "word":  "I hope I\u0027m not catching you at a bad time",
+        "type":  "Business Email",
+        "meaning":  "A polite way to check if the timing is convenient",
+        "korean":  "ë°”ì˜ì‹  ì‹œê°„ì— ì—°ë½ë“œë¦¬ëŠ” ê±´ ì•„ë‹Œì§€ìš”",
+        "example":  "I hope I\u0027m not catching you at a bad time â€” I have a quick question."
+    },
+    {
+        "id":  403,
+        "word":  "Thank you for taking the time to meet with me",
+        "type":  "Business Email",
+        "meaning":  "Expressing gratitude after a meeting",
+        "korean":  "ì‹œê°„ì„ ë‚´ì£¼ì…”ì„œ ê°ì‚¬í•©ë‹ˆë‹¤",
+        "example":  "Thank you for taking the time to meet with me yesterday."
+    },
+    {
+        "id":  404,
+        "word":  "I wanted to bring this to your attention",
+        "type":  "Business Email",
+        "meaning":  "Formally alerting someone to something important",
+        "korean":  "ì´ ì‚¬í•­ì„ ì•Œë ¤ë“œë¦¬ê³  ì‹¶ì—ˆìŠµë‹ˆë‹¤",
+        "example":  "I wanted to bring this to your attention before the end of day."
+    },
+    {
+        "id":  405,
+        "word":  "Please feel free to reach out",
+        "type":  "Business Email",
+        "meaning":  "Inviting someone to contact you without hesitation",
+        "korean":  "ì–¸ì œë“ ì§€ ì—°ë½ ì£¼ì„¸ìš”",
+        "example":  "Please feel free to reach out if you have any concerns."
+    },
+    {
+        "id":  406,
+        "word":  "I\u0027m happy to assist",
+        "type":  "Business Email",
+        "meaning":  "Saying you are willing to help",
+        "korean":  "ê¸°êº¼ì´ ë„ì™€ë“œë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "I\u0027m happy to assist with any questions you may have."
+    },
+    {
+        "id":  407,
+        "word":  "Just to confirm",
+        "type":  "Business Email",
+        "meaning":  "Verifying information previously discussed",
+        "korean":  "í™•ì¸ ì°¨ ë§ì”€ë“œë¦¬ìžë©´",
+        "example":  "Just to confirm, the meeting is at 2 PM on Thursday."
+    },
+    {
+        "id":  408,
+        "word":  "As you may be aware",
+        "type":  "Business Email",
+        "meaning":  "Assuming the recipient already knows this information",
+        "korean":  "ì•„ì‹œë‹¤ì‹œí”¼",
+        "example":  "As you may be aware, our policy changed last month."
+    },
+    {
+        "id":  409,
+        "word":  "I\u0027d like to take this opportunity to",
+        "type":  "Business Email",
+        "meaning":  "Using this occasion to do something formally",
+        "korean":  "ì´ ê¸°íšŒë¥¼ í†µí•´ ~í•˜ê³ ìž í•©ë‹ˆë‹¤",
+        "example":  "I\u0027d like to take this opportunity to thank the entire team."
+    },
+    {
+        "id":  410,
+        "word":  "Please ensure that",
+        "type":  "Business Email",
+        "meaning":  "Making sure that something happens",
+        "korean":  "ë°˜ë“œì‹œ ~í•´ ì£¼ì„¸ìš”",
+        "example":  "Please ensure that all forms are submitted by Friday."
+    },
+    {
+        "id":  411,
+        "word":  "This is to inform you that",
+        "type":  "Business Email",
+        "meaning":  "A formal way to start a notification",
+        "korean":  "ì•Œë ¤ë“œë¦¬ê³ ìž í•©ë‹ˆë‹¤",
+        "example":  "This is to inform you that your account has been updated."
+    },
+    {
+        "id":  412,
+        "word":  "We would like to invite you to",
+        "type":  "Business Email",
+        "meaning":  "Formally inviting someone to participate",
+        "korean":  "~ì— ì´ˆëŒ€ë“œë¦¬ê³  ì‹¶ìŠµë‹ˆë‹¤",
+        "example":  "We would like to invite you to our annual conference."
+    },
+    {
+        "id":  413,
+        "word":  "I trust you had a great weekend",
+        "type":  "Business Email",
+        "meaning":  "A friendly opener on Monday emails",
+        "korean":  "ì¦ê±°ìš´ ì£¼ë§ ë³´ë‚´ì…¨ê¸¸ ë°”ëžë‹ˆë‹¤",
+        "example":  "I trust you had a great weekend. I wanted to share an update."
+    },
+    {
+        "id":  414,
+        "word":  "Could we arrange a call to discuss this further",
+        "type":  "Business Email",
+        "meaning":  "Suggesting a phone call or video meeting",
+        "korean":  "ì´ì— ëŒ€í•´ ë” ë…¼ì˜í•˜ê¸° ìœ„í•´ í†µí™”ë¥¼ ìž¡ì„ ìˆ˜ ìžˆì„ê¹Œìš”",
+        "example":  "Could we arrange a call to discuss this further at your convenience?"
+    },
+    {
+        "id":  415,
+        "word":  "I\u0027m writing to express my concern about",
+        "type":  "Business Email",
+        "meaning":  "Formally raising a concern or complaint",
+        "korean":  "~ì— ëŒ€í•œ ìš°ë ¤ë¥¼ ì „ë‹¬í•˜ê³ ìž ì—°ë½ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I\u0027m writing to express my concern about the recent billing error."
+    },
+    {
+        "id":  416,
+        "word":  "After careful consideration",
+        "type":  "Business Email",
+        "meaning":  "Having thought about something thoroughly before responding",
+        "korean":  "ì‹ ì¤‘ížˆ ê³ ë ¤í•œ ëì—",
+        "example":  "After careful consideration, we have decided to decline the offer."
+    },
+    {
+        "id":  417,
+        "word":  "We appreciate your continued support",
+        "type":  "Business Email",
+        "meaning":  "Thanking someone for their ongoing help or loyalty",
+        "korean":  "ì§€ì†ì ì¸ ì§€ì›ì— ê°ì‚¬ë“œë¦½ë‹ˆë‹¤",
+        "example":  "We appreciate your continued support of our organization."
+    },
+    {
+        "id":  418,
+        "word":  "I look forward to working with you",
+        "type":  "Business Email",
+        "meaning":  "Expressing enthusiasm for future collaboration",
+        "korean":  "í•¨ê»˜ ì¼í•˜ê²Œ ë˜ì–´ ê¸°ëŒ€ë©ë‹ˆë‹¤",
+        "example":  "I look forward to working with you on this project."
+    },
+    {
+        "id":  419,
+        "word":  "We apologize for any confusion this may have caused",
+        "type":  "Business Email",
+        "meaning":  "Formally apologizing for miscommunication",
+        "korean":  "í˜¼ëž€ì„ ë“œë¦° ì  ì‚¬ê³¼ë“œë¦½ë‹ˆë‹¤",
+        "example":  "We apologize for any confusion this may have caused and will clarify shortly."
+    },
+    {
+        "id":  420,
+        "word":  "Please do not reply to this email",
+        "type":  "Business Email",
+        "meaning":  "An automated message instruction",
+        "korean":  "ì´ ì´ë©”ì¼ì— ë‹µìž¥í•˜ì§€ ë§ˆì„¸ìš”",
+        "example":  "Please do not reply to this email. Contact support at help@company.com."
+    },
+    {
+        "id":  421,
+        "word":  "I wanted to check in and see how things are progressing",
+        "type":  "Business Email",
+        "meaning":  "A friendly check on the status of something",
+        "korean":  "ì§„í–‰ ìƒí™©ì´ ì–´ë–¤ì§€ í™•ì¸í•˜ê³  ì‹¶ì—ˆìŠµë‹ˆë‹¤",
+        "example":  "I wanted to check in and see how things are progressing on your end."
+    },
+    {
+        "id":  422,
+        "word":  "We are pleased to announce",
+        "type":  "Business Email",
+        "meaning":  "Formally sharing good news with a group",
+        "korean":  "ê¸°ìœ ì†Œì‹ì„ ì•Œë ¤ë“œë¦½ë‹ˆë‹¤",
+        "example":  "We are pleased to announce the launch of our new product line."
+    },
+    {
+        "id":  423,
+        "word":  "I\u0027ve taken the liberty of",
+        "type":  "Business Email",
+        "meaning":  "Having done something without being asked, hoping it\u0027s okay",
+        "korean":  "í—ˆë½ ì—†ì´ ë¨¼ì € ~í–ˆìŠµë‹ˆë‹¤",
+        "example":  "I\u0027ve taken the liberty of scheduling a meeting for next Tuesday."
+    },
+    {
+        "id":  424,
+        "word":  "Please disregard my previous email",
+        "type":  "Business Email",
+        "meaning":  "Asking someone to ignore an email you sent by mistake",
+        "korean":  "ì´ì „ ì´ë©”ì¼ì€ ë¬´ì‹œí•´ ì£¼ì„¸ìš”",
+        "example":  "Please disregard my previous email â€” I sent it to the wrong person."
+    },
+    {
+        "id":  425,
+        "word":  "I will be out of the office from",
+        "type":  "Business Email",
+        "meaning":  "Notifying absence from the office",
+        "korean":  "~ë¶€í„° ìžë¦¬ë¥¼ ë¹„ì›ë‹ˆë‹¤",
+        "example":  "I will be out of the office from July 4th to July 8th."
+    },
+    {
+        "id":  426,
+        "word":  "For your reference",
+        "type":  "Business Email",
+        "meaning":  "Providing information for someone to look at",
+        "korean":  "ì°¸ê³ ë¡œ",
+        "example":  "For your reference, I\u0027ve attached last year\u0027s report."
+    },
+    {
+        "id":  427,
+        "word":  "Would it be possible to",
+        "type":  "Business Email",
+        "meaning":  "A very polite way to make a request",
+        "korean":  "í˜¹ì‹œ ~ê°€ëŠ¥í• ê¹Œìš”",
+        "example":  "Would it be possible to extend the deadline by one week?"
+    },
+    {
+        "id":  428,
+        "word":  "I\u0027m copying in",
+        "type":  "Business Email",
+        "meaning":  "Including someone else on the email thread",
+        "korean":  "ì°¸ì¡°ë¡œ ì¶”ê°€í•©ë‹ˆë‹¤",
+        "example":  "I\u0027m copying in our finance team who can help with this query."
+    },
+    {
+        "id":  429,
+        "word":  "This falls outside my area of expertise",
+        "type":  "Business Email",
+        "meaning":  "Saying something is not your field or responsibility",
+        "korean":  "ì œ ì „ë¬¸ ë¶„ì•¼ ë°–ì˜ ì¼ìž…ë‹ˆë‹¤",
+        "example":  "This falls outside my area of expertise â€” I\u0027ll refer you to our legal team."
+    },
+    {
+        "id":  430,
+        "word":  "In light of the above",
+        "type":  "Business Email",
+        "meaning":  "Considering the information just mentioned",
+        "korean":  "ìœ„ì˜ ë‚´ìš©ì„ ê³ ë ¤í•˜ì—¬",
+        "example":  "In light of the above, I recommend we reconsider the timeline."
+    },
+    {
+        "id":  431,
+        "word":  "I\u0027ll have this to you by",
+        "type":  "Business Email",
+        "meaning":  "Committing to deliver something by a specific time",
+        "korean":  "~ê¹Œì§€ ë³´ë‚´ë“œë¦¬ê² ìŠµë‹ˆë‹¤",
+        "example":  "I\u0027ll have this to you by end of business today."
+    },
+    {
+        "id":  432,
+        "word":  "Thanks for looping me in",
+        "type":  "Business Email",
+        "meaning":  "Thanking someone for including you in the conversation",
+        "korean":  "í¬í•¨ì‹œì¼œ ì£¼ì…”ì„œ ê°ì‚¬í•©ë‹ˆë‹¤",
+        "example":  "Thanks for looping me in â€” I\u0027ll take it from here."
+    },
+    {
+        "id":  433,
+        "word":  "I\u0027ll defer to your judgment",
+        "type":  "Business Email",
+        "meaning":  "Trusting someone else to make the final call",
+        "korean":  "ë‹¹ì‹ ì˜ íŒë‹¨ì— ë§¡ê¸°ê² ìŠµë‹ˆë‹¤",
+        "example":  "I\u0027ll defer to your judgment on this one since you\u0027re the expert."
+    },
+    {
+        "id":  434,
+        "word":  "We\u0027d love to get your thoughts on",
+        "type":  "Business Email",
+        "meaning":  "Asking for someone\u0027s opinion in a friendly way",
+        "korean":  "~ì— ëŒ€í•œ ì˜ê²¬ì´ ê¶ê¸ˆí•©ë‹ˆë‹¤",
+        "example":  "We\u0027d love to get your thoughts on the attached proposal."
+    },
+    {
+        "id":  435,
+        "word":  "As a follow-up to our meeting",
+        "type":  "Business Email",
+        "meaning":  "Referencing a meeting that just took place",
+        "korean":  "íšŒì˜ í›„ì†ìœ¼ë¡œ",
+        "example":  "As a follow-up to our meeting, I\u0027ve outlined the action items below."
+    },
+    {
+        "id":  436,
+        "word":  "Please be reminded that",
+        "type":  "Business Email",
+        "meaning":  "Gently reminding someone of something",
+        "korean":  "ë‹¤ì‹œ í•œë²ˆ ë§ì”€ë“œë¦¬ìžë©´",
+        "example":  "Please be reminded that the registration deadline is tomorrow."
+    },
+    {
+        "id":  437,
+        "word":  "I\u0027m available anytime that works for you",
+        "type":  "Business Email",
+        "meaning":  "Being flexible about scheduling",
+        "korean":  "íŽ¸í•˜ì‹  ì‹œê°„ ì–¸ì œë“ ì§€ ê°€ëŠ¥í•©ë‹ˆë‹¤",
+        "example":  "I\u0027m available anytime that works for you â€” just let me know."
+    },
+    {
+        "id":  438,
+        "word":  "Please advise on the best way forward",
+        "type":  "Business Email",
+        "meaning":  "Asking someone how to proceed",
+        "korean":  "ì•žìœ¼ë¡œ ì–´ë–»ê²Œ ì§„í–‰í•˜ë©´ ì¢‹ì„ì§€ ì•Œë ¤ì£¼ì„¸ìš”",
+        "example":  "I\u0027m unsure how to handle this â€” please advise on the best way forward."
+    },
+    {
+        "id":  439,
+        "word":  "I\u0027d be happy to jump on a call",
+        "type":  "Business Email",
+        "meaning":  "Offering to have a phone or video call",
+        "korean":  "ì „í™”ë‚˜ í™”ìƒ í†µí™”ë¡œ ì–˜ê¸° ë‚˜ëˆ„ë©´ ì¢‹ê² ìŠµë‹ˆë‹¤",
+        "example":  "If it\u0027s easier, I\u0027d be happy to jump on a call to discuss."
+    },
+    {
+        "id":  440,
+        "word":  "Thanks in advance",
+        "type":  "Business Email",
+        "meaning":  "Thanking someone before they do something",
+        "korean":  "ë¯¸ë¦¬ ê°ì‚¬ë“œë¦½ë‹ˆë‹¤",
+        "example":  "Please review the attached document. Thanks in advance!"
+    },
+    {
+        "id":  441,
+        "word":  "Warm regards",
+        "type":  "Business Email",
+        "meaning":  "A friendly professional email sign-off",
+        "korean":  "ë”°ëœ»í•œ ì•ˆë¶€ ì „í•˜ë©°",
+        "example":  "Warm regards, Sunny Park"
+    },
+    {
+        "id":  442,
+        "word":  "Hope this helps",
+        "type":  "Business Email",
+        "meaning":  "Closing with a hope that the information was useful",
+        "korean":  "ë„ì›€ì´ ë˜ì…¨ìœ¼ë©´ í•©ë‹ˆë‹¤",
+        "example":  "I\u0027ve included some resources at the bottom. Hope this helps!"
+    },
+    {
+        "id":  443,
+        "word":  "Kindly note that",
+        "type":  "Business Email",
+        "meaning":  "Politely drawing attention to something important",
+        "korean":  "ìœ ì˜í•´ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤",
+        "example":  "Kindly note that our office will be relocating next month."
+    },
+    {
+        "id":  444,
+        "word":  "I\u0027m reaching out on behalf of",
+        "type":  "Business Email",
+        "meaning":  "Contacting someone as a representative",
+        "korean":  "~ë¥¼ ëŒ€ì‹ í•˜ì—¬ ì—°ë½ë“œë¦½ë‹ˆë‹¤",
+        "example":  "I\u0027m reaching out on behalf of our marketing director."
+    },
+    {
+        "id":  445,
+        "word":  "Please let me know your availability",
+        "type":  "Business Email",
+        "meaning":  "Asking when someone is free to meet",
+        "korean":  "ê°€ëŠ¥í•˜ì‹  ì‹œê°„ì„ ì•Œë ¤ì£¼ì„¸ìš”",
+        "example":  "Please let me know your availability for a 30-minute call this week."
+    },
+    {
+        "id":  446,
+        "word":  "We value your partnership",
+        "type":  "Business Email",
+        "meaning":  "Expressing appreciation for a business relationship",
+        "korean":  "íŒŒíŠ¸ë„ˆì‹­ì— ê°ì‚¬ë“œë¦½ë‹ˆë‹¤",
+        "example":  "We value your partnership and look forward to continued collaboration."
+    },
+    {
+        "id":  447,
+        "word":  "Thank you for your understanding",
+        "type":  "Business Email",
+        "meaning":  "Appreciating someone\u0027s patience or flexibility",
+        "korean":  "ì´í•´í•´ ì£¼ì…”ì„œ ê°ì‚¬í•©ë‹ˆë‹¤",
+        "example":  "The project will be delayed by one week. Thank you for your understanding."
+    },
+    {
+        "id":  448,
+        "word":  "To summarize our discussion",
+        "type":  "Business Email",
+        "meaning":  "Giving a brief recap of what was talked about",
+        "korean":  "ë…¼ì˜ ë‚´ìš©ì„ ìš”ì•½í•˜ìžë©´",
+        "example":  "To summarize our discussion, we agreed on three key action items."
+    },
+    {
+        "id":  449,
+        "word":  "Please find below",
+        "type":  "Business Email",
+        "meaning":  "Directing someone to information included in the email body",
+        "korean":  "ì•„ëž˜ ë‚´ìš©ì„ í™•ì¸í•´ ì£¼ì„¸ìš”",
+        "example":  "Please find below the details of the upcoming event."
+    },
+    {
+        "id":  450,
+        "word":  "I\u0027m confident that",
+        "type":  "Business Email",
+        "meaning":  "Expressing certainty about a positive outcome",
+        "korean":  "í™•ì‹ í•©ë‹ˆë‹¤",
+        "example":  "I\u0027m confident that we can resolve this issue by the end of the week."
+    },
+    {
+        "id":  451,
+        "word":  "What are you up to these days?",
+        "type":  "Conversation",
+        "meaning":  "Asking what someone has been doing lately",
+        "korean":  "ìš”ì¦˜ ë­í•´?",
+        "example":  "Long time no see! What are you up to these days?"
+    },
+    {
+        "id":  452,
+        "word":  "We should do this again sometime",
+        "type":  "Conversation",
+        "meaning":  "Suggesting to repeat a pleasant activity",
+        "korean":  "ë˜ ì´ëŸ° ì‹œê°„ ë³´ë‚´ìž",
+        "example":  "I had such a good time today â€” we should do this again sometime."
+    },
+    {
+        "id":  453,
+        "word":  "I\u0027ve been meaning to call you",
+        "type":  "Conversation",
+        "meaning":  "I intended to contact you but kept forgetting",
+        "korean":  "ì—°ë½í•˜ë ¤ê³  í–ˆëŠ”ë°",
+        "example":  "I\u0027ve been meaning to call you â€” how have things been?"
+    },
+    {
+        "id":  454,
+        "word":  "It\u0027s been a while",
+        "type":  "Conversation",
+        "meaning":  "A long time has passed since we last spoke or met",
+        "korean":  "ì˜¤ëž˜ëë„¤",
+        "example":  "It\u0027s been a while â€” we need to catch up properly!"
+    },
+    {
+        "id":  455,
+        "word":  "What brought that on?",
+        "type":  "Conversation",
+        "meaning":  "Asking why something happened or what caused it",
+        "korean":  "ì™œ ê·¸ëŸ° ê±°ì•¼? ë¬´ìŠ¨ ì¼ì´ ìžˆì—ˆì–´?",
+        "example":  "You seem upset â€” what brought that on?"
+    },
+    {
+        "id":  456,
+        "word":  "Don\u0027t get me wrong",
+        "type":  "Conversation",
+        "meaning":  "Please don\u0027t misunderstand what I\u0027m saying",
+        "korean":  "ì˜¤í•´í•˜ì§€ ë§ˆ",
+        "example":  "Don\u0027t get me wrong â€” I love your cooking, I\u0027m just full."
+    },
+    {
+        "id":  457,
+        "word":  "If you ask me",
+        "type":  "Conversation",
+        "meaning":  "In my opinion",
+        "korean":  "ë‚´ ìƒê°ì—”",
+        "example":  "If you ask me, they should have planned this better."
+    },
+    {
+        "id":  458,
+        "word":  "You\u0027ve got a point",
+        "type":  "Conversation",
+        "meaning":  "Acknowledging that someone made a valid argument",
+        "korean":  "ë§žëŠ” ë§ì´ì•¼",
+        "example":  "You\u0027ve got a point â€” maybe we should wait before deciding."
+    },
+    {
+        "id":  459,
+        "word":  "That said",
+        "type":  "Conversation",
+        "meaning":  "However; but at the same time",
+        "korean":  "ê·¸ë ‡ê¸´ í•˜ì§€ë§Œ",
+        "example":  "The commute is terrible. That said, the job itself is great."
+    },
+    {
+        "id":  460,
+        "word":  "Either way",
+        "type":  "Conversation",
+        "meaning":  "Regardless of which option is chosen",
+        "korean":  "ì–´ëŠ ìª½ì´ë“ ",
+        "example":  "Either way, we should make a decision soon."
+    },
+    {
+        "id":  461,
+        "word":  "I couldn\u0027t care less",
+        "type":  "Conversation",
+        "meaning":  "I have absolutely no interest or concern",
+        "korean":  "ì „í˜€ ì‹ ê²½ ì•ˆ ì¨",
+        "example":  "I couldn\u0027t care less what he thinks about me."
+    },
+    {
+        "id":  462,
+        "word":  "It\u0027s not the end of the world",
+        "type":  "Conversation",
+        "meaning":  "It\u0027s not as serious as it seems",
+        "korean":  "ì„¸ìƒì´ ëë‚œ ê±´ ì•„ë‹ˆìž–ì•„",
+        "example":  "You didn\u0027t get the part â€” it\u0027s not the end of the world."
+    },
+    {
+        "id":  463,
+        "word":  "You never know",
+        "type":  "Conversation",
+        "meaning":  "Anything is possible; don\u0027t assume",
+        "korean":  "ëª¨ë¥´ëŠ” ê±°ì§€, ì•Œ ìˆ˜ ì—†ì–´",
+        "example":  "Should I apply? â€” You never know, you might get it!"
+    },
+    {
+        "id":  464,
+        "word":  "That\u0027s the way it goes",
+        "type":  "Conversation",
+        "meaning":  "That\u0027s just how life works; accept it",
+        "korean":  "ì›ëž˜ ê·¸ëŸ° ê±°ì•¼",
+        "example":  "I didn\u0027t get the promotion. â€” That\u0027s the way it goes sometimes."
+    },
+    {
+        "id":  465,
+        "word":  "I\u0027m all ears",
+        "type":  "Conversation",
+        "meaning":  "I\u0027m ready and eager to listen",
+        "korean":  "ìž˜ ë“£ê³  ìžˆì–´, ë§í•´ë´",
+        "example":  "You said you had big news? I\u0027m all ears!"
+    },
+    {
+        "id":  466,
+        "word":  "What\u0027s the catch?",
+        "type":  "Conversation",
+        "meaning":  "What\u0027s the hidden problem or condition?",
+        "korean":  "í•¨ì •ì´ ë­ì•¼?",
+        "example":  "Free tickets? What\u0027s the catch?"
+    },
+    {
+        "id":  467,
+        "word":  "It goes without saying",
+        "type":  "Conversation",
+        "meaning":  "It\u0027s so obvious it doesn\u0027t need to be stated",
+        "korean":  "ë§í•  í•„ìš”ë„ ì—†ì´",
+        "example":  "It goes without saying that honesty is important."
+    },
+    {
+        "id":  468,
+        "word":  "I\u0027m on the fence about it",
+        "type":  "Conversation",
+        "meaning":  "I haven\u0027t made up my mind yet",
+        "korean":  "ì•„ì§ ê²°ì • ëª» í–ˆì–´",
+        "example":  "Are you going to the reunion? â€” I\u0027m on the fence about it."
+    },
+    {
+        "id":  469,
+        "word":  "Suit yourself",
+        "type":  "Conversation",
+        "meaning":  "Do what you want; I don\u0027t mind",
+        "korean":  "ë§ˆìŒëŒ€ë¡œ í•´",
+        "example":  "I\u0027m not going â€” suit yourself, but you\u0027ll miss out."
+    },
+    {
+        "id":  470,
+        "word":  "Out of curiosity",
+        "type":  "Conversation",
+        "meaning":  "Just asking because I\u0027m curious, for no particular reason",
+        "korean":  "ê¶ê¸ˆí•´ì„œ ê·¸ëŸ°ë°",
+        "example":  "Out of curiosity, how did you two meet?"
+    },
+    {
+        "id":  471,
+        "word":  "I\u0027m with you on that",
+        "type":  "Conversation",
+        "meaning":  "I agree with your position",
+        "korean":  "ë‚˜ë„ ê·¸ ìƒê°ì´ì•¼",
+        "example":  "The pricing is too high. â€” I\u0027m with you on that."
+    },
+    {
+        "id":  472,
+        "word":  "Come on",
+        "type":  "Conversation",
+        "meaning":  "Expressing disbelief, encouragement, or urging",
+        "korean":  "ì„¤ë§ˆ, ì—ì´ / ì–´ì„œ, ê°€ìž",
+        "example":  "Come on, you can do it â€” just try!"
+    },
+    {
+        "id":  473,
+        "word":  "That\u0027s putting it mildly",
+        "type":  "Conversation",
+        "meaning":  "What you said is an understatement",
+        "korean":  "ê·¸ê±´ ë„ˆë¬´ ë¶€ë“œëŸ½ê²Œ í‘œí˜„í•œ ê±°ì•¼",
+        "example":  "The presentation was a disaster. â€” That\u0027s putting it mildly."
+    },
+    {
+        "id":  474,
+        "word":  "Now that you mention it",
+        "type":  "Conversation",
+        "meaning":  "Your comment made me think of something I hadn\u0027t considered",
+        "korean":  "ê·¸ëŸ¬ê³  ë³´ë‹ˆ",
+        "example":  "Now that you mention it, she did seem a bit quiet at dinner."
+    },
+    {
+        "id":  475,
+        "word":  "Not that I know of",
+        "type":  "Conversation",
+        "meaning":  "I don\u0027t think so, but I\u0027m not certain",
+        "korean":  "ë‚´ê°€ ì•Œê¸°ë¡œëŠ” ê·¸ë ‡ì§€ ì•Šì•„",
+        "example":  "Has the schedule changed? â€” Not that I know of."
+    },
+    {
+        "id":  476,
+        "word":  "What\u0027s the story with",
+        "type":  "Conversation",
+        "meaning":  "What\u0027s going on with someone or something?",
+        "korean":  "~ì— ëŒ€í•´ ì–´ë–»ê²Œ ëœ ê±°ì•¼?",
+        "example":  "What\u0027s the story with the new guy in accounting?"
+    },
+    {
+        "id":  477,
+        "word":  "Take your time",
+        "type":  "Conversation",
+        "meaning":  "There\u0027s no rush; proceed at your own pace",
+        "korean":  "ì²œì²œížˆ í•´",
+        "example":  "Need a moment to think? Take your time."
+    },
+    {
+        "id":  478,
+        "word":  "I\u0027m not buying it",
+        "type":  "Conversation",
+        "meaning":  "I don\u0027t believe what you\u0027re saying",
+        "korean":  "ë¯¿ê¸°ì§€ ì•Šì•„, ëª» ë¯¿ê² ì–´",
+        "example":  "He said he was stuck in traffic for two hours â€” I\u0027m not buying it."
+    },
+    {
+        "id":  479,
+        "word":  "To each their own",
+        "type":  "Conversation",
+        "meaning":  "Everyone has different preferences and that\u0027s okay",
+        "korean":  "ì‚¬ëžŒë§ˆë‹¤ ë‹¤ ë‹¤ë¥¸ ê±°ì§€",
+        "example":  "I don\u0027t like spicy food, but to each their own."
+    },
+    {
+        "id":  480,
+        "word":  "At the end of the day",
+        "type":  "Conversation",
+        "meaning":  "When everything is considered; ultimately",
+        "korean":  "ê²°êµ­ì—ëŠ”",
+        "example":  "At the end of the day, what matters is that you\u0027re happy."
+    },
+    {
+        "id":  481,
+        "word":  "You\u0027d be surprised",
+        "type":  "Conversation",
+        "meaning":  "The answer might be unexpected",
+        "korean":  "ë†€ëž„ ê±¸",
+        "example":  "Is Korean food popular here? â€” You\u0027d be surprised, it really is."
+    },
+    {
+        "id":  482,
+        "word":  "That\u0027s beside the point",
+        "type":  "Conversation",
+        "meaning":  "That\u0027s irrelevant to the main topic",
+        "korean":  "ê·¸ê±´ ìš”ì ì—ì„œ ë²—ì–´ë‚œ ê±°ì•¼",
+        "example":  "Yes, but he was late â€” that\u0027s beside the point right now."
+    },
+    {
+        "id":  483,
+        "word":  "Give it a shot",
+        "type":  "Conversation",
+        "meaning":  "Try it; attempt it",
+        "korean":  "í•œë²ˆ í•´ë´",
+        "example":  "You\u0027ve never tried surfing? You should give it a shot!"
+    },
+    {
+        "id":  484,
+        "word":  "You\u0027re telling me",
+        "type":  "Conversation",
+        "meaning":  "I completely agree with your statement",
+        "korean":  "ê·¸ëŸ¬ê²Œ ë§ì´ì•¼, ë™ê°ì´ì•¼",
+        "example":  "The prices here are insane! â€” You\u0027re telling me."
+    },
+    {
+        "id":  485,
+        "word":  "I wasn\u0027t born yesterday",
+        "type":  "Conversation",
+        "meaning":  "I\u0027m not naive; I know what\u0027s going on",
+        "korean":  "ë‚´ê°€ ë°”ë³´ì¸ ì¤„ ì•Œì•„?",
+        "example":  "I wasn\u0027t born yesterday â€” I can see exactly what he\u0027s doing."
+    },
+    {
+        "id":  486,
+        "word":  "Cut me some slack",
+        "type":  "Conversation",
+        "meaning":  "Be less critical of me; give me a break",
+        "korean":  "ì¢€ ë´ì¤˜",
+        "example":  "I just started this job â€” cut me some slack!"
+    },
+    {
+        "id":  487,
+        "word":  "I\u0027ll pass",
+        "type":  "Conversation",
+        "meaning":  "I\u0027ll decline; no thanks",
+        "korean":  "ë‚œ ëì–´, ê´œì°®ì•„",
+        "example":  "Want some more dessert? â€” I\u0027ll pass, I\u0027m stuffed."
+    },
+    {
+        "id":  488,
+        "word":  "Let\u0027s call it a day",
+        "type":  "Conversation",
+        "meaning":  "Let\u0027s stop working for today",
+        "korean":  "ì˜¤ëŠ˜ì€ ì—¬ê¸°ì„œ ë§ˆë¬´ë¦¬í•˜ìž",
+        "example":  "We\u0027ve been at this for six hours â€” let\u0027s call it a day."
+    },
+    {
+        "id":  489,
+        "word":  "What\u0027s done is done",
+        "type":  "Conversation",
+        "meaning":  "The past cannot be changed, so move on",
+        "korean":  "ì´ë¯¸ ì§€ë‚˜ê°„ ì¼ì´ì•¼",
+        "example":  "I made a mistake, but what\u0027s done is done â€” I\u0027ll move forward."
+    },
+    {
+        "id":  490,
+        "word":  "Don\u0027t sweat it",
+        "type":  "Conversation",
+        "meaning":  "Don\u0027t worry about it",
+        "korean":  "ê±±ì • ë§ˆ, ì‹ ê²½ ì“°ì§€ ë§ˆ",
+        "example":  "Sorry I forgot to text back! â€” Don\u0027t sweat it, I wasn\u0027t worried."
+    },
+    {
+        "id":  491,
+        "word":  "How does that sound?",
+        "type":  "Conversation",
+        "meaning":  "Does that plan or idea work for you?",
+        "korean":  "ì–´ë•Œ? ê´œì°®ì•„?",
+        "example":  "We could meet at 6 for dinner â€” how does that sound?"
+    },
+    {
+        "id":  492,
+        "word":  "I\u0027m game",
+        "type":  "Conversation",
+        "meaning":  "I\u0027m willing; I want to participate",
+        "korean":  "ë‚˜ë„ í• ê²Œ, ì¢‹ì•„",
+        "example":  "Road trip this weekend? â€” I\u0027m game!"
+    },
+    {
+        "id":  493,
+        "word":  "Count me in",
+        "type":  "Conversation",
+        "meaning":  "Include me; I want to join",
+        "korean":  "ë‚˜ë„ ë¼ì›Œì¤˜",
+        "example":  "We\u0027re going bowling Saturday night â€” count me in!"
+    },
+    {
+        "id":  494,
+        "word":  "That rings a bell",
+        "type":  "Conversation",
+        "meaning":  "That sounds familiar to me",
+        "korean":  "ë­”ê°€ ìƒê°ë‚˜ëŠ” ê²ƒ ê°™ì•„",
+        "example":  "Do you know someone named Mark Lee? â€” That name rings a bell."
+    },
+    {
+        "id":  495,
+        "word":  "I\u0027m drawing a blank",
+        "type":  "Conversation",
+        "meaning":  "I can\u0027t remember or think of something right now",
+        "korean":  "ìƒê°ì´ ì•ˆ ë‚˜",
+        "example":  "What was the name of that restaurant? â€” I\u0027m drawing a blank."
+    },
+    {
+        "id":  496,
+        "word":  "It slipped my mind",
+        "type":  "Conversation",
+        "meaning":  "I forgot about it",
+        "korean":  "ê¹œë¹¡í–ˆì–´",
+        "example":  "Sorry I didn\u0027t call â€” it completely slipped my mind."
+    },
+    {
+        "id":  497,
+        "word":  "It\u0027s on the tip of my tongue",
+        "type":  "Conversation",
+        "meaning":  "I almost remember but can\u0027t quite recall",
+        "korean":  "ìž…ì—ì„œ ë§´ë„ëŠ”ë° ìƒê°ì´ ì•ˆ ë‚˜",
+        "example":  "What\u0027s that actor\u0027s name? It\u0027s on the tip of my tongue."
+    },
+    {
+        "id":  498,
+        "word":  "I see your point",
+        "type":  "Conversation",
+        "meaning":  "I understand your reasoning",
+        "korean":  "ë¬´ìŠ¨ ë§ì¸ì§€ ì•Œê² ì–´",
+        "example":  "I see your point, but I still think we should wait."
+    },
+    {
+        "id":  499,
+        "word":  "I stand corrected",
+        "type":  "Conversation",
+        "meaning":  "I accept that I was wrong",
+        "korean":  "ì œê°€ í‹€ë ¸ë„¤ìš”, ì¸ì •í•©ë‹ˆë‹¤",
+        "example":  "Actually it opened in 2015, not 2016. â€” I stand corrected."
+    },
+    {
+        "id":  500,
+        "word":  "You can say that again",
+        "type":  "Conversation",
+        "meaning":  "I completely agree with what you just said",
+        "korean":  "ë§žì•„, ì •ë§ ê·¸ëž˜",
+        "example":  "This summer heat is unbearable! â€” You can say that again."
+    }
+]
