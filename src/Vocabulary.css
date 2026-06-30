@@ -1,0 +1,232 @@
+.vocab-page {
+  padding: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.vocab-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.vocab-header h2 {
+  font-size: 1.3rem;
+  color: #2d3748;
+}
+
+.progress {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.progress-bar {
+  height: 6px;
+  background: #e2e8f0;
+  border-radius: 3px;
+  margin-bottom: 32px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #2b6cb0;
+  border-radius: 3px;
+  transition: width 0.3s;
+}
+
+/* FLASHCARD FLIP */
+.flashcard {
+  perspective: 1000px;
+  height: 300px;
+  cursor: pointer;
+  margin-bottom: 24px;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.flashcard-front {
+  background: white;
+}
+
+.flashcard-back {
+  background: #2b6cb0;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.card-type {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #a0aec0;
+  margin-bottom: 16px;
+}
+
+.flashcard-back .card-type {
+  color: #bee3f8;
+}
+
+.card-word {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2d3748;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.tap-hint {
+  color: #a0aec0;
+  font-size: 0.85rem;
+}
+
+.card-meaning {
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.card-korean {
+  font-size: 1rem;
+  color: #bee3f8;
+  margin-bottom: 20px;
+}
+
+.card-example {
+  background: rgba(255,255,255,0.15);
+  border-radius: 12px;
+  padding: 12px 16px;
+  text-align: center;
+}
+
+.example-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #bee3f8;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.card-example p {
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* BUTTONS */
+.nav-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.nav-btn {
+  flex: 1;
+  padding: 12px;
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  color: #4a5568;
+  transition: border-color 0.15s;
+}
+
+.nav-btn:hover {
+  border-color: #2b6cb0;
+  color: #2b6cb0;
+}
+
+.rating-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.btn-learning,
+.btn-known {
+  flex: 1;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.btn-learning {
+  background: #fed7aa;
+  color: #c05621;
+}
+
+.btn-known {
+  background: #c6f6d5;
+  color: #276749;
+}
+
+.btn-learning:hover,
+.btn-known:hover {
+  opacity: 0.85;
+}
+
+.stats {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.stat {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+}
+
+.stat.known {
+  background: #c6f6d5;
+  color: #276749;
+}
+
+.stat.learning {
+  background: #fed7aa;
+  color: #c05621;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  color: #2b6cb0;
+  cursor: pointer;
+  padding: 8px 0;
+  margin-bottom: 24px;
+  display: block;
+}

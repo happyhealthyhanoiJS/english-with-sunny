@@ -1,0 +1,389 @@
+.notes-page {
+  padding: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.notes-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.notes-header h2 {
+  font-size: 1.3rem;
+  color: #2d3748;
+}
+
+.section-title {
+  font-size: 1.3rem;
+  color: #2d3748;
+  margin-bottom: 24px;
+}
+
+.btn-new {
+  background: #2b6cb0;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.import-export {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.btn-export,
+.btn-import {
+  flex: 1;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-export {
+  background: #e2e8f0;
+  color: #4a5568;
+  border: none;
+}
+
+.btn-import {
+  background: #ebf8ff;
+  color: #2b6cb0;
+  border: 2px dashed #2b6cb0;
+}
+
+.btn-flashcard {
+  width: 100%;
+  background: #553c9a;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: opacity 0.15s;
+}
+
+.btn-flashcard:hover {
+  opacity: 0.9;
+}
+
+.empty-state {
+  text-align: center;
+  margin-top: 80px;
+  color: #718096;
+}
+
+.empty-state span {
+  font-size: 4rem;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.empty-state p {
+  margin-bottom: 8px;
+}
+
+.empty-state .btn-new {
+  margin-top: 24px;
+  padding: 12px 24px;
+  font-size: 1rem;
+}
+
+/* FORM */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #4a5568;
+  margin-top: 8px;
+}
+
+.form input,
+.form select,
+.form textarea {
+  padding: 12px;
+  border: 2px solid #e2e8f0;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.form input:focus,
+.form select:focus,
+.form textarea:focus {
+  border-color: #2b6cb0;
+}
+
+.btn-add {
+  margin-top: 16px;
+  background: #2b6cb0;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.btn-add:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* NOTES LIST */
+.notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.note-card {
+  background: white;
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.note-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.note-type {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #2b6cb0;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.note-word {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2d3748;
+}
+
+.btn-delete {
+  background: none;
+  border: none;
+  color: #a0aec0;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.btn-delete:hover {
+  color: #e53e3e;
+}
+
+.note-meaning {
+  color: #4a5568;
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.note-korean {
+  color: #2b6cb0;
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+.note-example {
+  color: #718096;
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* FLASHCARD (reused from Vocabulary) */
+.vocab-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.vocab-header h2 {
+  font-size: 1.3rem;
+  color: #2d3748;
+}
+
+.progress {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.progress-bar {
+  height: 6px;
+  background: #e2e8f0;
+  border-radius: 3px;
+  margin-bottom: 32px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #553c9a;
+  border-radius: 3px;
+  transition: width 0.3s;
+}
+
+.flashcard {
+  perspective: 1000px;
+  height: 300px;
+  cursor: pointer;
+  margin-bottom: 24px;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.flashcard-front {
+  background: white;
+}
+
+.flashcard-back {
+  background: #553c9a;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.card-type {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #a0aec0;
+  margin-bottom: 16px;
+}
+
+.flashcard-back .card-type {
+  color: #d6bcfa;
+}
+
+.card-word {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2d3748;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.tap-hint {
+  color: #a0aec0;
+  font-size: 0.85rem;
+}
+
+.card-meaning {
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.card-korean {
+  color: #d6bcfa;
+  margin-bottom: 20px;
+}
+
+.card-example {
+  background: rgba(255,255,255,0.15);
+  border-radius: 12px;
+  padding: 12px 16px;
+  text-align: center;
+}
+
+.example-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #d6bcfa;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.card-example p {
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 12px;
+}
+
+.nav-btn {
+  flex: 1;
+  padding: 12px;
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  color: #4a5568;
+  transition: border-color 0.15s;
+}
+
+.nav-btn:hover {
+  border-color: #553c9a;
+  color: #553c9a;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  color: #2b6cb0;
+  cursor: pointer;
+  padding: 8px 0;
+  margin-bottom: 24px;
+  display: block;
+}

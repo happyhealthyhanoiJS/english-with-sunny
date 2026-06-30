@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+  color: #1a202c;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 24px 16px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* HOME */
+.header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2b6cb0;
+  margin-bottom: 8px;
+}
+
+.header p {
+  color: #718096;
+  font-size: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background: white;
+  border: none;
+  border-radius: 16px;
+  padding: 24px 16px;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.card-icon {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.card h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #2d3748;
+}
+
+.card p {
+  font-size: 0.8rem;
+  color: #718096;
+}
+
+/* COMING SOON */
+.coming-soon {
+  padding: 16px;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  color: #2b6cb0;
+  cursor: pointer;
+  padding: 8px 0;
+  margin-bottom: 48px;
+  display: block;
+}
+
+.coming-soon-content {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.big-icon {
+  font-size: 5rem;
+  display: block;
+  margin-bottom: 24px;
+}
+
+.coming-soon-content h2 {
+  font-size: 1.8rem;
+  color: #2d3748;
+  margin-bottom: 12px;
+}
+
+.coming-soon-content p {
+  color: #718096;
+  font-size: 1.1rem;
+}
